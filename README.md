@@ -1,0 +1,307 @@
+# BYLAWS
+
+- [BYLAWS](#bylaws)
+	- [ARTICLE 1 - General Provisions](#article-1---general-provisions)
+		- [Section 1.1. **Name**.](#section-11-name)
+		- [Section 1.2. **Office**.](#section-12-office)
+		- [Section 1.3. **Definitions**.](#section-13-definitions)
+	- [ARTICLE 2 - Unit Owners Association](#article-2---unit-owners-association)
+		- [Section 2.1. **Composition**.](#section-21-composition)
+		- [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings)
+		- [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings)
+		- [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings)
+		- [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings)
+		- [Section 2.7. **Order of Business**.](#section-27-order-of-business)
+		- [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings)
+		- [Section 2.9. **Voting**.](#section-29-voting)
+		- [Section 2.10. **Proxies**.](#section-210-proxies)
+	- [Article 3 - Board of Directors](#article-3---board-of-directors)
+		- [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties)
+		- [Section 3.2. **Managing Agent**.](#section-32-managing-agent)
+		- [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office)
+		- [Section 3.4. **Election of Directors**.](#section-34-election-of-directors)
+		- [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors)
+		- [Section 3.6. **Vacancies**.](#section-36-vacancies)
+		- [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors)
+		- [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting)
+		- [Section 3.9. **Compensation**.](#section-39-compensation)
+		- [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent)
+		- [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association)
+		- [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors)
+	- [Article 4 - Officers](#article-4---officers)
+	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
+	- [Article 6 - Insurance](#article-6---insurance)
+	- [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other)
+	- [Article 8 - Mortgages](#article-8---mortgages)
+	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
+	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
+		- [Section 10.1. **Amendments**.](#section-101-amendments)
+		- [Section 10.2 **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
+	- [Article 11 - Miscellaneous](#article-11---miscellaneous)
+	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
+
+## ARTICLE 1 - General Provisions
+
+### Section 1.1. **Name**.
+
+These Bylaws provide for the governance of the Condominium by the Unit Owners Association pursuant to the requirements of Article 3 of the Condominium Act. The name of the Unit Owners Association is the name of the Condominium followed by the words “Unit Owners Association”.
+
+### Section 1.2. **Office**.
+
+The office of the Condominium, the Unit Owners Association and the Board of Directors shall be located at the Property or at such other place as may be designated from time to time by the Board of Directors.
+
+### Section 1.3. **Definitions**.
+
+Terms used without definition have the meetings specified for such terms in the Declaration to which these Bylaws are attached as Exhibit B, or if not defined in the Declaration, the meanings specified for such terms in section 55-79.41 of the Condominium Act. The following terms have the following meetings in the condominium instruments:
+
+(1) “Board of Directors” or “Board” means the executive organ established pursuant to Article 3.
+
+(2) “Common Element Interest” means the number assigned to each unit by Exhibit C to the Declaration which establishes each unit’s undivided interest in the common elements, common expenses and surplus and votes in the Unit Owners Association.
+
+(3) “Declarant Control Period” means the period to the earliest of (i) the date on which units to which seventy-five percent or more of the aggregate Common Element Interest appertain have been conveyed to unit owners other than the Declarant; (ii) five years after the date of the first conveyance of a condominium unit to a unit owner other than the Declarant (the maximum time period permitted by subsection 55-79.74A of the Condominium Act); or (iii) the date specified by the Declarant in a notice to the Unit Owners Association that the Declarant Control Period so to terminate on that date. For the purpose of the preceding sentence, the calculation of Common Element Interests shall be based, at any given time, on the Common Element Interests to be assigned to all units then registered within the Virginia Real Estate Board.
+
+(4) “Limited Common Expenses” means expenses separately assessed against one or more but less than all of the condominium units generally in accordance with the use of the services, as permitted by section 55-79.83 of the Condominium Act and Section 5.1 of these Bylaws. Except where the context requires otherwise, common expenses shall include Limited Common Expenses.
+
+(5) “Majority Vote” means a simple majority (more than fifty percent) of the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage vote means that percentage vote with respect to the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage approval or vote of the Mortgagees means approval or a vote by the Mortgagees of condominium units to which such percentage of the total number of votes appertain.
+
+(6) “Mortgagee” means an institutional lender holding a first mortgage or first deed of trust ("Mortgage") encumbering a condominium unit in the Condominium which has notified the Unit Owners Association of its status and has requested all rights under the condominium instruments. For the purposes of Article 8, when any right is to be given to a Mortgagee, the Board of Directors shall also give such right to the Federal Home Loan Mortgage Corporation, Fannie Mae (formerly the Federal National Mortgage Association), the Department of Veterans Affairs, the Federal Housing Administration, the Farmer's Home Administration, the Government National Mortgage Association and any other public or private secondary mortgage market entity participating in purchasing or guarantying [sic] Mortgages if the Board has notice of such participation.
+
+(7) “Officer” means any person holding office pursuant to Article 4, but contrary to section 55-79.41 of the Condominium Act, shall not mean members of the Board of Directors unless such directors are also Officers pursuant to Article 4.
+
+(8) “Reserved Common Element” means a common element in which the Board of Directors has granted a revocable license for exclusive use by less than all of the unit owners.
+
+(9) “Unit Owners Association” or “Association” means the unincorporated, non-profit association of all the unit owners owning condominium units in the Condominium.
+
+## ARTICLE 2 - Unit Owners Association
+
+### Section 2.1. **Composition**.
+
+The Unit Owners Association consists of all of the unit owners. For all purposes the Association acts merely as an agent for the unit owners as a group. The Association has the responsibility of administering the Condominium, establishing the means and methods of collecting assessments and charges, arranging for the management of the Condominium and performing all of the other acts that may be required or permitted to be performed by the Association by the Condominium Act and the Declaration. Except as to those matters which the Condominium Act specifically requires to be decided by the vote of the Association, the foregoing responsibilities shall be performed by the Board of Directors or managing agent as more particularly set forth in Article 3.
+
+### Section 2.2. **Annual Meetings**.
+
+The annual meetings of the Unit Owners Association shall be held on weekdays (other than legal holidays) at least forty-five days before the beginning of each fiscal year. The first meeting of the Association shall be held within one year after there's a unit owner other than the Declarant.
+
+### Section 2.3. **Place of Meetings**.
+
+Meetings of the Unit Owners Association shall be held at the principal office of the Association or at such other suitable place convenient to the unit owners as may be designated by the Board of Directors.
+
+Section 2.4. **Special Meetings**.
+
+> (a) **Generally**. The President shall call a special meeting of the Unit Owners Association: (i) if so directed by resolution of the Board of Directors; (ii) after the termination of the Declarant Control Period, upon a petition signed and presented to the Secretary by unit owners of units to which not less than twenty-five percent of the total Common Element Interest appertains; or (iii) during the Declarant Control Period, upon request of the Declarant. The signatures on a petition requesting a special meeting shall. be valid for a period of one hundred-eighty days after the date of the first such signature. Such resolution, petition or request must (1) specify the time and place at which meeting is to be held, (2) either specify a date on which the meeting is to be held which will permit the Secretary to comply with section 2.5, or else specify that the Secretary shall designate the date of the meeting, (3) specify the purposes for which the meeting is to be held, and (4) be delivered to the Secretary. The notice of any special meeting shall state the time, place and purpose thereof. No business shall be transacted at a special meeting except as stated in the notice.
+
+> (b) **Transition Meeting**. Not later than the termination of the Declarant Control Period, a special meeting of the Association shall be held at which a majority of the directors shall be elected by the unit owners, including the Declarant if the Declarant owns any units, to serve terms as provided in Section3.3. If such election is held prior to the time required by this section, the directors elected at such election shall not take office until the earlier of the time such election is required to be held or resignation of a director appointed by the Declarant without appointment of a replacement within ten days. The elected directors shall assume office in the order of the highest number of votes received. Any remaining directors designated by the Declarant shall continue to serve until their terms expire; _provided_, _however_, that no more than two such directors may serve until the first annual meeting after the special meeting held pursuant to this subsection and no more than one such director may serve until the second annual meeting after tile special meeting held pursuant to this subsection.
+
+### Section 2.5. **Notice of Meetings**.
+
+The Secretary shall notify each unit owner of each annual or regularly scheduled meeting of the unit owners at least _twenty-one_ but not more than thirty days, and of each special meeting of the unit owners at least seven but not more than thirty days, prior to such meeting, stating the time, place and purpose thereof. The giving of a notice of meeting in the manner provided in this section and Section 11.1 constitutes service of notice.
+
+### Section 2.6. **Quorum and Adjournment of Meetings**.
+
+Except as otherwise provided in these Bylaws, the presence in person or by proxy of unit owners owning units to which twenty-five percent or more of the total Common Element Interest appertains constitutes a quorum at all meetings of the Unit Owners Association. If at any meeting of the Association a quorum is not present, unit owners of a majority of the Common Element Interests who are present at such meeting in person or by proxy may: (i) recess the meeting to such date, time and place as such unit owners may egress not more than forty-eight hours after the time the original meeting was called; or (ii) adjourn the meeting to a time not less than forty-eight hours after the time the original meeting was called, whereupon the Secretary shall make reasonable efforts to notify unit owners of such date, time and place.
+
+### Section 2.7. **Order of Business**.
+
+The order of business at all meetings of the Unit Owners Associate shall be as follows: (a) roll call (proof of quorum); (b) proof of notice of meeting; (c) reading of minutes of preceding meeting; (d) reports of officers; (e) report of Board of Directors; (f) reports or committees; (g) appointment of inspectors of election (when so required); (h) election of directors (when so required); (i) unfinished business; and (j) new business; _provided_, _however_, that balloting for election of directors may commence at any time.
+
+### Section 2.8. **Conduct of Meetings**.
+
+The President shall preside over all meetings of the Unit Owners Association and the Secretary shall keep the minutes of the meeting and record in a minute book all resolutions adopted at the meeting, as well as a record of all transactions occurring at the meeting. The President may appoint a person to server as parliamentarian at any meeting of the Association. The then current edition of _Robert’s Rules of Order_, _Newly Revised_, shall govern the conduct of all meetings of the Association when not in conflict with the Condominium Act or the condominium instruments. Tellers, appointed by the President or other Officer presiding over the meeting, shall supervise the tallying of all votes, and the names and addresses of the tellers shall be recorded in the minutes of the meeting.
+
+### Section 2.9. **Voting**.
+
+> (a) **Basis; Multiple Person Owners**. Voting at all meetings of the Unit Owners Association shall be on a percentage basis and the percentage of the vote to which each unit owner is entitled shall be the Common Element Interest assigned to such unit owner’s unit in the Declaration. Where the ownership of a unit is in more than one person, the person entitled to cast the vote of such unit shall be the person named in a certificate signed by all of the owners of such unit and filed with the Secretary (if such a certificate is on file) or , in the absence of such named person from the meeting, the person entitled to cast the voted of such unit shall be the person owning such unit who is present. If more than one person owning such unity is present, then such vote shall be cast only in accordance with their unanimous agreement pursuant to subsection 55-79.77C of the Condominium Act. If a unit owner is not a natural person, the vote for such unit may be cast by any natural person having authority to sign deeds on behalf of any person, excluding natural persons, which is, either alone or in conjunction with one or more other persons, a unit owner; _provided_, _however_, that such natural person is named in a certificated signed by an authorized office of such person; and, _provided_, _further_, that any vote cast by a natural person on behalf of such unity owner shall be deemed valid unless successfully challenged prior to adjournment of the meeting at which such vote was cast. Such certificate shall be valid until revoked by subsequent certificate similarly signed and filed. Subject to the requirements of the Condominium Act, wherever the approval or disapproval of a unit owner is required by the Condominium Act or the condominium intruments, such approval or disapproval shall be made only by the person who would be entitled to cast the vote of such unit at any meeting of the Unit Owners Association. There shall be no cumulative voting.
+
+> (b) **Required Vote**. Except where a greater number is required by the Condominium Act or the condominium instruments, a Majority Vote is required to adopt decisions at any meeting of the Association. If the Declarant owns or holds the title to a unit, the Declarant shall have the right at any meeting of the Association to cast the vote appurtenant to such unit.
+
+> (c) **Delinquents**. No unit owner may vote at any meeting of the Association or be elected to or serve on the Board of Directors if payment by such unit owner of any financial obligation to the Association is delinquent more than sixty days and the amount necessary to bring the account current has not been paid at the time of such meeting or election.
+
+### Section 2.10. **Proxies**.
+
+A vote may be cast in person or by proxy. A proxy may be instructed (directing the proxy how to vote) or uninstructed (leaving how to vote to the proxy’s discretion). Proxies may be granted by any unit owner in favor of only: (i) another unit owner, an Officer, the Declarant or such unit owner’s Mortgagee, or (ii) additionally in the case of a non-resident unit owner, the unit owner’s lessee, attorney or rental agent or (iii) with respect to instructed proxies only, the managing agent. No person other than the Declarant, the managing agent or an Officer shall cast votes as a proxy for more than one unit not owned by such person; _provided_, _however_, that no Officer shall cast votes as an uninstructed proxy for more than five units not owned by such person and _provided_, _further_, that a Mortgagee or an attorney or a rental agent for nonresident unit owner may cast votes as proxy for as many units as such person represents. Proxies shall comply with the requirements of subsection 55-79.77D of the Condominium Act, shall be dated, shall be signed by a person having authority at the time of the execution thereof to sign deeds on behalf of that person, shall terminate after the first meeting held on or after the date of that proxy or any recess or adjournment of that meeting held within thirty days and shall be filed with the Secretary. Such proxy shall be deemed revoked only upon actual receipt by the person presiding over the meeting of notice of revocation from any of the persons owning such unit. Except with respect to proxies in favor of a lessee or Mortgagee, no proxy shall in any event to be valid for a period in excess of one hundred and eighty days after the date the proxy is signed.
+
+## Article 3 - Board of Directors
+
+### Section 3.1. **Powers and Duties**.
+
+The Board of Directors shall have all of the powers and duties necessary for the administration of the affairs of the Unit Owners Association and may do all such acts and things as are not by the Condominium Act or the condominium instruments required to be exercised and done by the Association. The Board of Directors shall delegate to one of its members or to a person employed for such purpose the authority to act on behalf of the Board on such matters relating to the duties of the managing agent (as defined in Section 3.2) if any, which may arise between meetings of the Board as the Board deems appropriate. In addition to the duties imposed by these Bylaws or by any resolution of the Association that may hereafter be adopted, the Board shall on behalf of the Association:
+
+> (1) Prepare and adopt an annual budget, in which there shall be expressed the assessments of each unit owner for the common expenses.
+
+> (2) Make assessments against unit owners to defray the costs and expenses of the Condominium, establish the means and methods of collecting such assessments from the unit owners and establish the period of the installment payment of the annual assessment for common expenses.
+
+> (3) Provide for the operation, care, upkeep and maintenance of all of the Property and services of the Condominium; _provided_, _however_, that after the Declarant Control Period, (1) any signification reduction therein, or (2) contracting therefor at rates twenty percent or more below the reasonable costs (as budgeted for an average of the prior three years) shall first require a Majority Vote of the unit owners or prior written approval by owners of units to which more than fifty person of the Toal number of votes in the Association appertain.
+
+(4) Designate, hire and dismiss the personnel necessary for the maintenance, operation, repair and replacement of the common elements and provide services for the Property and, where appropriate, provide for the compensation of such personnel and for the purchase of equipment, supplies and material to be used by such personnel in the performance of their duties, which supplies and equipment shall be deemed part of the property.
+
+(5) Collect the assessments against the unit owners, deposit the proceeds thereof in bank depositories designated by the Board of Directors and use the proceeds to carry out the administration of the Property.
+
+(6) Adopt and amend any rules and regulations in accordance with Subsection 5.8(b); _provided_, _however_, that such rules and regulations shall not be in conflict with the Condominium Act or the condominium instruments.
+
+(7) Open bank accounts on behalf of the Association and designate the signatories thereon.
+
+(8) Make, or contract for the making of, repairs, additions and improvements to or alterations and restoration of the Property, in accordance with these Bylaws, after damage or destruction by fire or other casualty, or as a result of condemnation or eminent domain proceedings.
+
+(9) Enforce by legal means the provisions of the Declaration, these Bylaws and the rules and regulations, act on behalf of the unit owners with respect to all matters arising out of any eminent domain proceeding, and notify the unit owners of any litigation against the Association involving a claim in excess of ten percent of the amount of the annual budget.
+
+(10) Obtain and carry insurance against casualties and liabilities, as provided in Article 6, pay the premiums therefor and adjust and settle any claims thereunder.
+
+(11) Pay the cost of all authorized services rendered to the Association and not billed to unit owners of individual units or otherwise provided for in Sections 5.1 and 5.2.
+
+(12) In accordance with section 55-79.74:1 of the Condominium Act, keep books with detailed accounts in chronological order of the receipts and expenditures affecting the Property, and the administration of the Condominium, specifying the expenses of maintenance and repair of the common elements and any other expenses incurred. Such books and vouchers accrediting the entries therein shall be available for examination by the unit owner’s, their attorneys, accountants, Mortgagees and authorized agents during general business hours on business days at the times and in the manner set and announced by the Board of Directors for the general knowledge of the unit owners. All books and records shall be kept in accordance with generally accepted account principles, and the same shall be audited at least once each year by an independent auditor retained by the Board of Directors who shall not be a resident of the Condominium or a unit owner. The cost of such audit shall be a common expense.
+
+(13) Notify a Mortgagee of any default hereunder by the unit owner of the unit subject to such Mortgage, if such default continues for more than sixty days.
+
+(14) ...
+
+(15) Acquire, hold and dispose of condominium units and mortgage the same without the prior approval of the Association if such expenditures and hypothecations are included in the budget adopted by the Association.
+
+(16) In its sole discretion, from time to time, designate certain common elements as Reserved Common Elements and impose such restrictions and conditions on the use thereof as the Board of Directors deems appropriate.
+
+(17) Grant and accept easements through or over the common elements in accordance with subsection 55-79.80B of the Condominium Act.
+
+(18) Upon receipt of such payment as may be established by the Board of Directors in compliance with section 55-79.97 of the Condominium Act. Furnish the statement required by section 55-79.97 of the Condominium Act within ten days after the receipt of a written requires therefore from any unit owner, substantially in the form set forth on Exhibit A to these Bylaws and designated “Certificate for Resale.”
+
+(19) Do such other things and acts not inconsistent with the Condominium Act or the condominium instruments which the Board of Directors may be authorized to do by a resolution of the Association.
+
+### Section 3.2. **Managing Agent**.
+
+> (a) **Requirements**.
+
+> (b) **Duties**.
+
+> (c) **Standards**.
+
+> > (1)
+
+> > (2)
+
+> > (3)
+
+> > (4)
+
+> > (5)
+
+> > (6)
+
+> > > (A)
+
+> > > (B)
+
+> > > (C)
+
+> > > (D)
+
+> > > (E)
+
+> > > (F)
+
+> (d) **Limitations**.
+
+### Section 3.3. **Number and Term of Office**.
+
+> (a) Designated **Members**.
+
+> (b) **Elected Members**.
+
+### Section 3.4. **Election of Directors**.
+
+> (a) **Elections Committee**.
+
+> (b) **Nominations**.
+
+> (c) **Qualifications**.
+
+### Section 3.5. **Removal or Resignation of Directors**.
+
+### Section 3.6. **Vacancies**.
+
+### Section 3.7. **Meetings of Directors**.
+
+> (a) **Organization Meeting**.
+
+> (b) **Regular Meetings**.
+
+> (c) **Special Meetings**.
+
+> (d) **Executive Session**.
+
+> (e) **Notice**.
+
+> (f) **Waiver of Notice**.
+
+> (g) **Quorum of Board of Directors**.
+
+> (h) **Conduct of Meetings**.
+
+### Section 3.8. **Action Without Meeting**.
+
+### Section 3.9. **Compensation**.
+
+No director shall receive any compensation from the Condominium for action as such.
+
+### Section 3.10. **Board of Directors as Agent**.
+
+### Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.
+
+> (a) **Individual Liability**.
+
+> (b) **Association Liability**.
+
+### Section 3.12. **Common or Interested Directors**.
+
+(1)
+
+(2)
+
+(3)
+
+Section 3.13. **Covenants Committee**.
+
+> (a) **Purpose**.
+
+> (b) **Powers**.
+
+> (c) **Authority**.
+
+## Article 4 - Officers
+
+Section 4.1. **Designation and Duties**.
+
+Section 4.2. **Election of Officers**.
+
+Section 4.3. **Removal or Resignation of Officers**.
+
+Section 4.4. **President**.
+
+Section 4.5. **Vice President**.
+
+Section 4.6. **Secretary**.
+
+Section 4.7. **Treasurer**.
+
+Section 4.8. **Execution of Documents**.
+
+## Article 5 - Operation of the Property
+
+## Article 6 - Insurance
+
+## Article 7 - Repair and Reconstruction After Fire or Other
+
+## Article 8 - Mortgages
+
+## Article 9 - Compliance and Default
+
+## Article 10 - Amendments to Bylaws
+
+### Section 10.1. **Amendments**.
+
+These Bylaws may not be modified or amended except as provided in section 55-79.71 of the Condominium Act; _provided_, _however_, that until the expiration of the Declarant Control Period, Sections 2.4, 2.9, 3.3, 3.4, 3.5, 3.6 and 10.1 my not be amended without the prior written consent of the Declarant. All amendments to the Bylaws shall be prepared and recorded by the Secretary.
+
+### Section 10.2 **Approval of Mortgagees**.
+
+These Bylaws contain provisions concerning various rights, priorities, remedies and interests of Mortgagees. Such provisions are to be construed as covenants for the protection of such Mortgagees on which they may rely in making loans secured by Mortgages. Accordingly, no amendment or modification of these Bylaws impairing or affecting such rights, priorities, remedies or interests of a Mortgagee shall be adopted without the prior written consent of such Mortgagee.
+
+## Article 11 - Miscellaneous
+
+## Article 12 - Alternative Dispute Resolution
