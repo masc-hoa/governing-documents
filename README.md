@@ -1,11 +1,11 @@
-# BYLAWS
+# Bylaws
 
-- [BYLAWS](#bylaws)
-	- [ARTICLE 1 - General Provisions](#article-1---general-provisions)
+- [Bylaws](#bylaws)
+	- [Article 1 - General Provisions](#article-1---general-provisions)
 		- [Section 1.1. **Name**.](#section-11-name)
 		- [Section 1.2. **Office**.](#section-12-office)
 		- [Section 1.3. **Definitions**.](#section-13-definitions)
-	- [ARTICLE 2 - Unit Owners Association](#article-2---unit-owners-association)
+	- [Article 2 - Unit Owners Association](#article-2---unit-owners-association)
 		- [Section 2.1. **Composition**.](#section-21-composition)
 		- [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings)
 		- [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings)
@@ -36,11 +36,16 @@
 	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
 	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
 		- [Section 10.1. **Amendments**.](#section-101-amendments)
-		- [Section 10.2 **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
+		- [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
 	- [Article 11 - Miscellaneous](#article-11---miscellaneous)
+		- [Section 11.1. **Notices**.](#section-111-notices)
+		- [Section 11.2. **Captions**.](#section-112-captions)
+		- [Section 11.3. **Gender**.](#section-113-gender)
+		- [Section 11.4. **Construction**.](#section-114-construction)
+		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
 	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
 
-## ARTICLE 1 - General Provisions
+## Article 1 - General Provisions
 
 ### Section 1.1. **Name**.
 
@@ -72,7 +77,7 @@ Terms used without definition have the meetings specified for such terms in the 
 
 (9) “Unit Owners Association” or “Association” means the unincorporated, non-profit association of all the unit owners owning condominium units in the Condominium.
 
-## ARTICLE 2 - Unit Owners Association
+## Article 2 - Unit Owners Association
 
 ### Section 2.1. **Composition**.
 
@@ -152,7 +157,7 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 (13) Notify a Mortgagee of any default hereunder by the unit owner of the unit subject to such Mortgage, if such default continues for more than sixty days.
 
-(14) ...
+- [ ] (14) ...
 
 (15) Acquire, hold and dispose of condominium units and mortgage the same without the prior approval of the Association if such expenditures and hypothecations are included in the budget adopted by the Association.
 
@@ -166,75 +171,81 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 ### Section 3.2. **Managing Agent**.
 
-> (a) **Requirements**.
+> - [ ] (a) **Requirements**.
 
-> (b) **Duties**.
+> - [ ] (b) **Duties**.
 
-> (c) **Standards**.
+> - [ ] (c) **Standards**.
 
-> > (1)
+> > - [ ] (1)
 
-> > (2)
+> > - [ ] ( 2)
 
-> > (3)
+> > - [ ] ( 3)
 
-> > (4)
+> > - [ ] ( 4)
 
-> > (5)
+> > - [ ] ( 5)
 
-> > (6)
+> > - [ ] ( 6)
 
-> > > (A)
+> > > - [ ] ( A)
 
-> > > (B)
+> > > - [ ] ( B)
 
-> > > (C)
+> > > - [ ] ( C)
 
-> > > (D)
+> > > - [ ] ( D)
 
-> > > (E)
+> > > - [ ] ( E)
 
-> > > (F)
+> > > - [ ] ( F)
 
-> (d) **Limitations**.
+> - [ ] (d) **Limitations**.
 
 ### Section 3.3. **Number and Term of Office**.
 
-> (a) Designated **Members**.
+> - [ ] (a) Designated **Members**.
 
-> (b) **Elected Members**.
+> - [ ] (b) **Elected Members**.
 
 ### Section 3.4. **Election of Directors**.
 
-> (a) **Elections Committee**.
+> - [ ] (a) **Elections Committee**.
 
-> (b) **Nominations**.
+> - [ ] (b) **Nominations**.
 
-> (c) **Qualifications**.
+> - [ ] (c) **Qualifications**.
 
 ### Section 3.5. **Removal or Resignation of Directors**.
 
+- [ ] ...
+
 ### Section 3.6. **Vacancies**.
+
+- [ ] ...
 
 ### Section 3.7. **Meetings of Directors**.
 
-> (a) **Organization Meeting**.
+> - [ ] (a) **Organization Meeting**.
 
-> (b) **Regular Meetings**.
+> - [ ] (b) **Regular Meetings**.
 
-> (c) **Special Meetings**.
+> - [ ] (c) **Special Meetings**.
 
-> (d) **Executive Session**.
+> - [ ] (d) **Executive Session**.
 
-> (e) **Notice**.
+> - [ ] (e) **Notice**.
 
-> (f) **Waiver of Notice**.
+> - [ ] (f) **Waiver of Notice**.
 
-> (g) **Quorum of Board of Directors**.
+> - [ ] (g) **Quorum of Board of Directors**.
 
-> (h) **Conduct of Meetings**.
+> - [ ] (h) **Conduct of Meetings**.
 
 ### Section 3.8. **Action Without Meeting**.
+
+- [ ] ...
 
 ### Section 3.9. **Compensation**.
 
@@ -242,55 +253,83 @@ No director shall receive any compensation from the Condominium for action as su
 
 ### Section 3.10. **Board of Directors as Agent**.
 
+- [ ] ...
+
 ### Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.
 
-> (a) **Individual Liability**.
+> - [ ] (a) **Individual Liability**.
 
-> (b) **Association Liability**.
+> - [ ] (b) **Association Liability**.
 
 ### Section 3.12. **Common or Interested Directors**.
 
-(1)
+- [ ] (1)
 
-(2)
+- [ ] (2)
 
-(3)
+- [ ] (3)
 
 Section 3.13. **Covenants Committee**.
 
-> (a) **Purpose**.
+> - [ ] (a) **Purpose**.
 
-> (b) **Powers**.
+> - [ ] (b) **Powers**.
 
-> (c) **Authority**.
+> - [ ] (c) **Authority**.
 
 ## Article 4 - Officers
 
 Section 4.1. **Designation and Duties**.
 
+- [ ] ...
+
 Section 4.2. **Election of Officers**.
+
+- [ ] ...
 
 Section 4.3. **Removal or Resignation of Officers**.
 
+- [ ] ...
+
 Section 4.4. **President**.
+
+- [ ] ...
 
 Section 4.5. **Vice President**.
 
+- [ ] ...
+
 Section 4.6. **Secretary**.
+
+- [ ] ...
 
 Section 4.7. **Treasurer**.
 
+- [ ] ...
+
 Section 4.8. **Execution of Documents**.
+
+- [ ] ...
 
 ## Article 5 - Operation of the Property
 
+- [ ] ...
+
 ## Article 6 - Insurance
+
+- [ ] ...
 
 ## Article 7 - Repair and Reconstruction After Fire or Other
 
+- [ ] ...
+
 ## Article 8 - Mortgages
 
+- [ ] ...
+
 ## Article 9 - Compliance and Default
+
+- [ ] ...
 
 ## Article 10 - Amendments to Bylaws
 
@@ -298,10 +337,43 @@ Section 4.8. **Execution of Documents**.
 
 These Bylaws may not be modified or amended except as provided in section 55-79.71 of the Condominium Act; _provided_, _however_, that until the expiration of the Declarant Control Period, Sections 2.4, 2.9, 3.3, 3.4, 3.5, 3.6 and 10.1 my not be amended without the prior written consent of the Declarant. All amendments to the Bylaws shall be prepared and recorded by the Secretary.
 
-### Section 10.2 **Approval of Mortgagees**.
+### Section 10.2. **Approval of Mortgagees**.
 
 These Bylaws contain provisions concerning various rights, priorities, remedies and interests of Mortgagees. Such provisions are to be construed as covenants for the protection of such Mortgagees on which they may rely in making loans secured by Mortgages. Accordingly, no amendment or modification of these Bylaws impairing or affecting such rights, priorities, remedies or interests of a Mortgagee shall be adopted without the prior written consent of such Mortgagee.
 
 ## Article 11 - Miscellaneous
 
+### Section 11.1. **Notices**.
+
+All notices, demands, bills, statements or other communications under these Bylaws shall be in writing and shall be deemed to have been duly given if delivered personally or sent by United States mail, postage prepaid (pursuant to section 55-79.75 of the Condominium Act), or if notificatio is of a default or lien, sent by registered or certified United States mail, return receipt requested, postage prepaid,(i) if to a unit owner, at the address which the unit owner shall designate in writing and file with the Secretary or, if no address is designated, at the address of such unity owner's unit, or (ii) if to the Unit Owners Association, the Board of Directors or to the managing agent, at the prinicipal office of the managing agent or at such other address as shall be designated by notice in writing to the unit owners pursuant to this section. If more than one person owns a unit, each such person who so designates an address in writing to the Secretary shall be entitled to receive all notices hereunder.
+
+### Section 11.2. **Captions**.
+
+The captions are only as a matter of convenience and for reference, and in no way define, limit or describe the scope of these Bylaws or the intent of any provision.
+
+### Section 11.3. **Gender**.
+
+The use of the masculine gender in these Bylaws shall be deemed to include the feminine and neuter genders and the use of the singular shall be deemed to include the plural, and **vice versa**, whenever the context so requires.
+
+### Section 11.4. **Construction**.
+
+These condominium instruments are intended to comply with all of the applicable provisions of the Condominium Act and shall be so interpreted and applied. The failure to comply strictly with the time periods required by the condominium instruments, unless also required by the Condominium Act, shall not invalidate any of the Board of Directors or the Unit Owners Association in the absence of a written objection by the Declarant, a unit owner or a Mortgagee within ten days after the failure to comply.
+
+
+### Section 11.5. **Use of New Technology**.
+
+Due to the ongoing development of new technologies and corresponding changes in business practices, to the extent permitted by law now or in the future: (1) any notice required to be sent or received; (2) any signature, vote, consent or approval required to be obtained; or (3) any payment required to be made, under the condominium instruments may be accomplished using the most advanced technology available at that time if such uses generally accepted business practice. This section shall govern the use of technology in implementing the provisions of the condominium instruments dealing with notices, payments, signatures, votes, consents or approvals.
+
+> (a) **Electronic Means**. To the extent permitted by law, the Unit Owners Association and its unit owners and occupants may perform any obligation or exercise any right by use of any technological means providing sufficient security, reliability, identification and verifiability. Acceptable technological means shall include without limitation electronic communications over the internet, the community or other network, whether by direct connection, intranet, telecopier or e-mail.
+
+> (b) **Signature Requirements**. A digital signature meeting the requirements of applicable law shall satisfy any requirement for a signature under the condominium instruments.
+
+> (c) **Electronic Funds Transfer**. Payment of all sums to and from the Association and the unit owners and occupants maybe made by electronic transfer funds creating a record evidencing the transaction for the period such record would be required to be available in non-electronic form.
+
+> (d) **Voting Rights**. Approval of any matter under the condominium instruments may be accomplished by electronic means provided that the record is created as evidence thereof and maintained as long as such record would be required to be maintained in non-electronic form.
+
+> (e) **Non-technology Alternatives**. If any owner, occupant or third party does not have the capability or desire to conduct business using electronic or other technological means, the Association shall make reasonable accommodation, at its expense, for such person to conduct business with the Association without use of such electronic or other means until such means has become generally (if not universally) accepted in similar communities in the area.
+
 ## Article 12 - Alternative Dispute Resolution
+
+- [ ] ...
