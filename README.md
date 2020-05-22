@@ -1,5 +1,3 @@
-# Bylaws
-
 - [Bylaws](#bylaws)
 	- [Article 1 - General Provisions](#article-1---general-provisions)
 		- [Section 1.1. **Name**.](#section-11-name)
@@ -29,6 +27,14 @@
 		- [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association)
 		- [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors)
 	- [Article 4 - Officers](#article-4---officers)
+		- [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties)
+		- [Section 4.2. **Election of Officers**.](#section-42-election-of-officers)
+		- [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers)
+		- [Section 4.4. **President**.](#section-44-president)
+		- [Section 4.5. **Vice President**.](#section-45-vice-president)
+		- [Section 4.6. **Secretary**.](#section-46-secretary)
+		- [Section 4.7. **Treasurer**.](#section-47-treasurer)
+		- [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents)
 	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
 	- [Article 6 - Insurance](#article-6---insurance)
 	- [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other)
@@ -44,6 +50,8 @@
 		- [Section 11.4. **Construction**.](#section-114-construction)
 		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
 	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
+
+# Bylaws
 
 ## Article 1 - General Provisions
 
@@ -95,7 +103,7 @@ Section 2.4. **Special Meetings**.
 
 > (a) **Generally**. The President shall call a special meeting of the Unit Owners Association: (i) if so directed by resolution of the Board of Directors; (ii) after the termination of the Declarant Control Period, upon a petition signed and presented to the Secretary by unit owners of units to which not less than twenty-five percent of the total Common Element Interest appertains; or (iii) during the Declarant Control Period, upon request of the Declarant. The signatures on a petition requesting a special meeting shall. be valid for a period of one hundred-eighty days after the date of the first such signature. Such resolution, petition or request must (1) specify the time and place at which meeting is to be held, (2) either specify a date on which the meeting is to be held which will permit the Secretary to comply with section 2.5, or else specify that the Secretary shall designate the date of the meeting, (3) specify the purposes for which the meeting is to be held, and (4) be delivered to the Secretary. The notice of any special meeting shall state the time, place and purpose thereof. No business shall be transacted at a special meeting except as stated in the notice.
 
-> (b) **Transition Meeting**. Not later than the termination of the Declarant Control Period, a special meeting of the Association shall be held at which a majority of the directors shall be elected by the unit owners, including the Declarant if the Declarant owns any units, to serve terms as provided in Section3.3. If such election is held prior to the time required by this section, the directors elected at such election shall not take office until the earlier of the time such election is required to be held or resignation of a director appointed by the Declarant without appointment of a replacement within ten days. The elected directors shall assume office in the order of the highest number of votes received. Any remaining directors designated by the Declarant shall continue to serve until their terms expire; _provided_, _however_, that no more than two such directors may serve until the first annual meeting after the special meeting held pursuant to this subsection and no more than one such director may serve until the second annual meeting after tile special meeting held pursuant to this subsection.
+> (b) **Transition Meeting**. Not later than the termination of the Declarant Control Period, a special meeting of the Association shall be held at which a majority of the directors shall be elected by the unit owners, including the Declarant if the Declarant owns any units, to serve terms as provided in [Section 3.3](#section-33-number-and-term-of-office). If such election is held prior to the time required by this section, the directors elected at such election shall not take office until the earlier of the time such election is required to be held or resignation of a director appointed by the Declarant without appointment of a replacement within ten days. The elected directors shall assume office in the order of the highest number of votes received. Any remaining directors designated by the Declarant shall continue to serve until their terms expire; _provided_, _however_, that no more than two such directors may serve until the first annual meeting after the special meeting held pursuant to this subsection and no more than one such director may serve until the second annual meeting after tile special meeting held pursuant to this subsection.
 
 ### Section 2.5. **Notice of Meetings**.
 
@@ -129,7 +137,7 @@ A vote may be cast in person or by proxy. A proxy may be instructed (directing t
 
 ### Section 3.1. **Powers and Duties**.
 
-The Board of Directors shall have all of the powers and duties necessary for the administration of the affairs of the Unit Owners Association and may do all such acts and things as are not by the Condominium Act or the condominium instruments required to be exercised and done by the Association. The Board of Directors shall delegate to one of its members or to a person employed for such purpose the authority to act on behalf of the Board on such matters relating to the duties of the managing agent (as defined in Section 3.2) if any, which may arise between meetings of the Board as the Board deems appropriate. In addition to the duties imposed by these Bylaws or by any resolution of the Association that may hereafter be adopted, the Board shall on behalf of the Association:
+The Board of Directors shall have all of the powers and duties necessary for the administration of the affairs of the Unit Owners Association and may do all such acts and things as are not by the Condominium Act or the condominium instruments required to be exercised and done by the Association. The Board of Directors shall delegate to one of its members or to a person employed for such purpose the authority to act on behalf of the Board on such matters relating to the duties of the managing agent (as defined in [Section 3.2](#section-32-managing-agent)) if any, which may arise between meetings of the Board as the Board deems appropriate. In addition to the duties imposed by these Bylaws or by any resolution of the Association that may hereafter be adopted, the Board shall on behalf of the Association:
 
 > (1) Prepare and adopt an annual budget, in which there shall be expressed the assessments of each unit owner for the common expenses.
 
@@ -279,35 +287,35 @@ Section 3.13. **Covenants Committee**.
 
 ## Article 4 - Officers
 
-Section 4.1. **Designation and Duties**.
+### Section 4.1. **Designation and Duties**.
 
 - [ ] ...
 
-Section 4.2. **Election of Officers**.
+### Section 4.2. **Election of Officers**.
 
 - [ ] ...
 
-Section 4.3. **Removal or Resignation of Officers**.
+### Section 4.3. **Removal or Resignation of Officers**.
+
+Upon the affirmative vote of a majority of all members of the Board of Directors any Office may be removed, either with or without cause, and a successor may be elected at any regular meeting of the Board or at any special meeting of the Board called for such purpose. An Officer may resign as provided for a director in [Section 3.5](#section-35-removal-or-resignation-of-directors).
+
+### Section 4.4. **President**.
+
+The President shall: be the chief executive of the Unit Owners Association; preside at all meetings of the Association and the Board of Directors; have general and active direction of the business of the Association subect to the control of the Board; see that all order and resolutions of the Board are carried into effect; and appointe committees from time to time as the President may decide is appropriate to assist in the conduct of the affairs of the Association.
+
+### Section 4.5. **Vice President**.
+
+The Vice President shall take the place of th President and perform the duties of the President whenever the President shall be absent or unable to act. If neither the President nor the Vice President is able to act, the Board of Directors shall appoint some other director to act in the place of the President on an interim basis. The Vice President shall also perform such othe rduties as shall from time to time be impoosed by the Board of Directors or by the President.
+
+### Section 4.6. **Secretary**.
 
 - [ ] ...
 
-Section 4.4. **President**.
+### Section 4.7. **Treasurer**.
 
 - [ ] ...
 
-Section 4.5. **Vice President**.
-
-- [ ] ...
-
-Section 4.6. **Secretary**.
-
-- [ ] ...
-
-Section 4.7. **Treasurer**.
-
-- [ ] ...
-
-Section 4.8. **Execution of Documents**.
+### Section 4.8. **Execution of Documents**.
 
 - [ ] ...
 
@@ -358,7 +366,6 @@ The use of the masculine gender in these Bylaws shall be deemed to include the f
 ### Section 11.4. **Construction**.
 
 These condominium instruments are intended to comply with all of the applicable provisions of the Condominium Act and shall be so interpreted and applied. The failure to comply strictly with the time periods required by the condominium instruments, unless also required by the Condominium Act, shall not invalidate any of the Board of Directors or the Unit Owners Association in the absence of a written objection by the Declarant, a unit owner or a Mortgagee within ten days after the failure to comply.
-
 
 ### Section 11.5. **Use of New Technology**.
 
