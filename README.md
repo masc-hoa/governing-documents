@@ -41,6 +41,9 @@
 	- [Article 8 - Mortgages](#article-8---mortgages)
 	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
 		- [Section 9.1 **Relief**.](#section-91-relief)
+		- [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments)
+		- [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien)
+		- [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection)
 	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
 		- [Section 10.1. **Amendments**.](#section-101-amendments)
 		- [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
@@ -345,7 +348,31 @@ The Vice President shall take the place of th President and perform the duties o
 ## Article 9 - Compliance and Default
 
 ### Section 9.1 **Relief**.
-- [ ] 
+
+> - [ ] (a) **Additional Liability**.
+
+> - [ ] (b) **Closing and Attorney's Fees**.
+
+> - [ ] (c) **No Waiver of Rights**.
+
+> - [ ] (d) **Interest**.
+
+> - [ ] (e) **<a id="abating-and-enjoining-violations-by-unit-owners">Abating and Enjoining Violations by Unit Owners</a>**.
+
+> - [ ] (f) **Legal Proceedings**.
+
+> - [ ] (g) **<a id="charges">Charges</a>**.
+
+> - [ ] (h) **<a id="other-remedies">Other Remedies</a>**.
+
+### Section 9.2 **Lien for Assessments**.
+- [ ] ...
+
+### Section 9.3 **Supplemental Enforcement of the Lien**.
+- [ ] ...
+
+### Section 9.4 **Subordination and Mortgage Protection**.
+- [ ] ...
 
 ## Article 10 - Amendments to Bylaws
 
@@ -416,7 +443,7 @@ The alternative dispute resolution proceedings shall be held in Fairfax County, 
 
 ### Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.
 
-The Declarant, the Unit Owners Association and each unit owner expressly consent to the procedures established in this Article as their sole and exclusive remedy, and expressly waive any right they may have to seek resolution of any dispute contemplated by this Article in any court of law or equity, and any right to trial by judge or jury; _provided_, _however_, that any party may pursue judicial adjudication of a decision of the Board of Directors: (i) suspending party's right to use a portion of the common elements pursuant to Subsection 9.1(h); (ii)  imposing a charge pursuant to Subsection 9.1(g); or (iii) a judicial grant of injunctive relief obtained pursuant to Subsection 9.1(e). The provisions of this Article shall not reduce or delay the Association's rights to levy a late charge, collect interest or file and pursue a lien as provided in Articles [5](#article-5---operation-of-the-property) and [9](#article-9---compliance-and-default) with respect to any Assessment or other charges due from a unit owner hereunder. If a dispute involves the Declarant or the Association, no Person shall file a memorandum of _lis pendens_ or similar instrument that would encumber or create a lien upon the real estate owned either by the Declarant or the Association. 
+The Declarant, the Unit Owners Association and each unit owner expressly consent to the procedures established in this Article as their sole and exclusive remedy, and expressly waive any right they may have to seek resolution of any dispute contemplated by this Article in any court of law or equity, and any right to trial by judge or jury; _provided_, _however_, that any party may pursue judicial adjudication of a decision of the Board of Directors: (i) suspending party's right to use a portion of the common elements pursuant to [Subsection 9.1(h)](#other-remedies); (ii)  imposing a charge pursuant to [Subsection 9.1(g)](#charges); or (iii) a judicial grant of injunctive relief obtained pursuant to [Subsection 9.1(e)](#abating-and-enjoining-violations-by-unit-owners). The provisions of this Article shall not reduce or delay the Association's rights to levy a late charge, collect interest or file and pursue a lien as provided in Articles [5](#article-5---operation-of-the-property) and [9](#article-9---compliance-and-default) with respect to any Assessment or other charges due from a unit owner hereunder. If a dispute involves the Declarant or the Association, no Person shall file a memorandum of _lis pendens_ or similar instrument that would encumber or create a lien upon the real estate owned either by the Declarant or the Association. 
 
 ### Section 12.6 **Disputes Requiring Emergency Relief**.
 
