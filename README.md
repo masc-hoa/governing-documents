@@ -50,6 +50,12 @@
 		- [Section 11.4. **Construction**.](#section-114-construction)
 		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
 	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
+		- [Section 12.1 **Direct Communication**.](#section-121-direct-communication)
+		- [Section 12.2 **Mediation**.](#section-122-mediation)
+		- [Section 12.3 **Arbitration**.](#section-123-arbitration)
+		- [Section 12.4 **Location**.](#section-124-location)
+		- [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights)
+		- [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
 
 # Bylaws
 
@@ -383,4 +389,36 @@ Due to the ongoing development of new technologies and corresponding changes in 
 
 ## Article 12 - Alternative Dispute Resolution
 
-- [ ] ...
+The purpose of the Declaration is to establish a harmonious community. Because the prompt, efficient, fair and non-belligerent resolution of any disputes is desirable, any controversy arising out of or relating to the condominium instruments or of a breach there of, or any other dispute between (1) the Declarant and (2) the Unit Owners Association or any unit owner shall be resolved as set forth in this Article.
+
+### Section 12.1 **Direct Communication**.
+
+The parties to the disagreement shall set forth their respective positions in the dispute in correspondence. Each party shall respond within seven days after receipt of a letter from the other until agreement is reached.
+
+### Section 12.2 **Mediation**.
+
+If the dispute cannot be resolved through direct communication of the parties, either party may request appointment of a neutral and properly credentialed mediator. Both parties shall participate in the mediation in good faith until the dispute is resolved for a period not to exceed thirty days without the consent of all parties. The cost of the mediation shall be divided equally among the parties.
+
+### Section 12.3 **Arbitration**.
+
+> (a) **Method**. If the dispute cannot be resolved through mediation, either party may request appointment of one or more neutral arbitrators. If the parties cannot agree on a single arbitrator, then each party shall appoint one arbitrator and the two appointed arbitrators just select the third arbitrator. Each arbitrator should be properly credentialed with expert knowledge and practical experience regarding dispute. The initiating Person shall give written notice of its decision to arbitrate by providing a specific statement setting forth the nature of the dispute, the amount involved and the remedy sought. The parties shall have an equal and fair opportunity to present their respective positions to the arbitrators, orally or in writing, as the arbitrators may specify depending on the nature of the dispute. The arbitrators may require such testimony, materials and documentation as they may determine to be appropriate. The arbitrators shall provide a written resolution within thirty days after the conclusion of the presentations of the parties and receipt of requested materials and documents.
+
+> (b) **Costs**. The arbitrator shall award to the prevailing party, if any, as determined by the arbitrator, all of its costs and expenses including any attorney's fees, arbitrator's fees and out-of-pocket expenses of any kind. The term "prevailing party" shall mean the party whose position is most nearly upheld in the arbitration. (For example, the prevailing party would be the party who is required to pay $1000.00 in the arbitration proceeding were such party had, prior to the commencement of the arbitration, offered $500.00 by way of settlement and the opposing party, refusing such offer, had claimed entitlement to $10,000.00.)
+
+> (c) **Binding Nature; Applicable Law**. The consideration of the parties to be bound by arbitration is not only the waiver of access to determinatin by a court and/or jury, but also the waiver of any rights to appeal the arbitration finding other than for the reasons set forth in Sections 8.01-581.010 and 8.01-581.011 of the Code of Virginia (1950), as amended. A judgment upon an award rendered by the arbitrator maybe entered any in any court having jurisdiction. Unless otherwise provided in this Article, the terms of Sections 8.01-577 and 8.01-581-01 **et seq**. of the Code of Virgina (1950), as amended, shall apply to the proceedings under this subsection.
+
+### Section 12.4 **Location**. 
+
+The alternative dispute resolution proceedings shall be held in Fairfax County, Virginia unless otherwise mutually agreed by the parties
+
+
+### Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.
+
+The Declarant, the Unit Owners Association and each unit owner expressly consent to the procedures established in this Article as their sole and exclusive remedy, and expressly waive any right they may have to seek resolution of any dispute contemplated by this Article in any court of law or equity, and any right to trial by judge or jury; _provided_, _however_, that any party may pursue judicial adjudication of a decision of the Board of Directors: (i) suspending party's right to use a portion of the common elements pursuant to Subsection 9.1(h); (ii)  imposing a charge pursuant to Subsection 9.1(g); or (iii) a judicial grant of injunctive relief obtained pursuant to Subsection 9.1(e). The provisions of this Article shall not reduce or delay the Association's rights to levy a late charge, collect interest or file and pursue a lien as provided in Articles 5 and 9 with respect to any Assessment or other charges due from a unit owner hereunder. If a dispute involves the Declarant or the Association, no Person shall file a memorandum of _lis pendens_ or similar instrument that would encumber or create a lien upon the real estate owned either by the Declarant or the Association. 
+
+### Section 12.6 **Disputes Requiring Emergency Relief**.
+
+If a dispute requires immediate, emergency relief such as would be available through judicial injunctive relief, then either party to the dispute may seek such relief as a temporary resolution pending the opportunity to conduct other procedures under this Article.
+
+- [ ] Exhibit A to the Bylaws
+- [ ] Exhibit B to the Bylaws
