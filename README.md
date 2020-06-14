@@ -1,65 +1,4 @@
-- [Bylaws](#bylaws)
-	- [Article 1 - General Provisions](#article-1---general-provisions)
-		- [Section 1.1. **Name**.](#section-11-name)
-		- [Section 1.2. **Office**.](#section-12-office)
-		- [Section 1.3. **Definitions**.](#section-13-definitions)
-	- [Article 2 - Unit Owners Association](#article-2---unit-owners-association)
-		- [Section 2.1. **Composition**.](#section-21-composition)
-		- [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings)
-		- [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings)
-		- [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings)
-		- [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings)
-		- [Section 2.7. **Order of Business**.](#section-27-order-of-business)
-		- [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings)
-		- [Section 2.9. **Voting**.](#section-29-voting)
-		- [Section 2.10. **Proxies**.](#section-210-proxies)
-	- [Article 3 - Board of Directors](#article-3---board-of-directors)
-		- [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties)
-		- [Section 3.2. **Managing Agent**.](#section-32-managing-agent)
-		- [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office)
-		- [Section 3.4. **Election of Directors**.](#section-34-election-of-directors)
-		- [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors)
-		- [Section 3.6. **Vacancies**.](#section-36-vacancies)
-		- [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors)
-		- [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting)
-		- [Section 3.9. **Compensation**.](#section-39-compensation)
-		- [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent)
-		- [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association)
-		- [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors)
-	- [Article 4 - Officers](#article-4---officers)
-		- [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties)
-		- [Section 4.2. **Election of Officers**.](#section-42-election-of-officers)
-		- [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers)
-		- [Section 4.4. **President**.](#section-44-president)
-		- [Section 4.5. **Vice President**.](#section-45-vice-president)
-		- [Section 4.6. **Secretary**.](#section-46-secretary)
-		- [Section 4.7. **Treasurer**.](#section-47-treasurer)
-		- [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents)
-	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
-	- [Article 6 - Insurance](#article-6---insurance)
-	- [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other)
-	- [Article 8 - Mortgages](#article-8---mortgages)
-	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
-		- [Section 9.1 **Relief**.](#section-91-relief)
-		- [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments)
-		- [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien)
-		- [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection)
-	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
-		- [Section 10.1. **Amendments**.](#section-101-amendments)
-		- [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
-	- [Article 11 - Miscellaneous](#article-11---miscellaneous)
-		- [Section 11.1. **Notices**.](#section-111-notices)
-		- [Section 11.2. **Captions**.](#section-112-captions)
-		- [Section 11.3. **Gender**.](#section-113-gender)
-		- [Section 11.4. **Construction**.](#section-114-construction)
-		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
-	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
-		- [Section 12.1 **Direct Communication**.](#section-121-direct-communication)
-		- [Section 12.2 **Mediation**.](#section-122-mediation)
-		- [Section 12.3 **Arbitration**.](#section-123-arbitration)
-		- [Section 12.4 **Location**.](#section-124-location)
-		- [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights)
-		- [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
+- [Bylaws](#bylaws) - [Article 1 - General Provisions](#article-1---general-provisions) - [Section 1.1. **Name**.](#section-11-name) - [Section 1.2. **Office**.](#section-12-office) - [Section 1.3. **Definitions**.](#section-13-definitions) - [Article 2 - Unit Owners Association](#article-2---unit-owners-association) - [Section 2.1. **Composition**.](#section-21-composition) - [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings) - [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings) - [Section 2.4. **Special Meetings**.](#section-24-special-meetings) - [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings) - [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings) - [Section 2.7. **Order of Business**.](#section-27-order-of-business) - [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings) - [Section 2.9. **Voting**.](#section-29-voting) - [Section 2.10. **Proxies**.](#section-210-proxies) - [Article 3 - Board of Directors](#article-3---board-of-directors) - [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties) - [Section 3.2. **Managing Agent**.](#section-32-managing-agent) - [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office) - [Section 3.4. **Election of Directors**.](#section-34-election-of-directors) - [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors) - [Section 3.6. **Vacancies**.](#section-36-vacancies) - [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors) - [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting) - [Section 3.9. **Compensation**.](#section-39-compensation) - [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent) - [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association) - [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors) - [Article 4 - Officers](#article-4---officers) - [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties) - [Section 4.2. **Election of Officers**.](#section-42-election-of-officers) - [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers) - [Section 4.4. **President**.](#section-44-president) - [Section 4.5. **Vice President**.](#section-45-vice-president) - [Section 4.6. **Secretary**.](#section-46-secretary) - [Section 4.7. **Treasurer**.](#section-47-treasurer) - [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents) - [Article 5 - Operation of the Property](#article-5---operation-of-the-property) - [Article 6 - Insurance](#article-6---insurance) - [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other) - [Article 8 - Mortgages](#article-8---mortgages) - [Article 9 - Compliance and Default](#article-9---compliance-and-default) - [Section 9.1 **Relief**.](#section-91-relief) - [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments) - [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien) - [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection) - [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws) - [Section 10.1. **Amendments**.](#section-101-amendments) - [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees) - [Article 11 - Miscellaneous](#article-11---miscellaneous) - [Section 11.1. **Notices**.](#section-111-notices) - [Section 11.2. **Captions**.](#section-112-captions) - [Section 11.3. **Gender**.](#section-113-gender) - [Section 11.4. **Construction**.](#section-114-construction) - [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology) - [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution) - [Section 12.1 **Direct Communication**.](#section-121-direct-communication) - [Section 12.2 **Mediation**.](#section-122-mediation) - [Section 12.3 **Arbitration**.](#section-123-arbitration) - [Section 12.4 **Location**.](#section-124-location) - [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights) - [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
 
 # Bylaws
 
@@ -77,23 +16,23 @@ The office of the Condominium, the Unit Owners Association and the Board of Dire
 
 Terms used without definition have the meetings specified for such terms in the Declaration to which these Bylaws are attached as Exhibit B, or if not defined in the Declaration, the meanings specified for such terms in section 55-79.41 of the Condominium Act. The following terms have the following meetings in the condominium instruments:
 
-(1) “Board of Directors” or “Board” means the executive organ established pursuant to Article 3.
+> (1) “Board of Directors” or “Board” means the executive organ established pursuant to Article 3.
 
-(2) “Common Element Interest” means the number assigned to each unit by Exhibit C to the Declaration which establishes each unit’s undivided interest in the common elements, common expenses and surplus and votes in the Unit Owners Association.
+> (2) “Common Element Interest” means the number assigned to each unit by Exhibit C to the Declaration which establishes each unit’s undivided interest in the common elements, common expenses and surplus and votes in the Unit Owners Association.
 
-(3) “Declarant Control Period” means the period to the earliest of (i) the date on which units to which seventy-five percent or more of the aggregate Common Element Interest appertain have been conveyed to unit owners other than the Declarant; (ii) five years after the date of the first conveyance of a condominium unit to a unit owner other than the Declarant (the maximum time period permitted by subsection 55-79.74A of the Condominium Act); or (iii) the date specified by the Declarant in a notice to the Unit Owners Association that the Declarant Control Period so to terminate on that date. For the purpose of the preceding sentence, the calculation of Common Element Interests shall be based, at any given time, on the Common Element Interests to be assigned to all units then registered within the Virginia Real Estate Board.
+> (3) “Declarant Control Period” means the period to the earliest of (i) the date on which units to which seventy-five percent or more of the aggregate Common Element Interest appertain have been conveyed to unit owners other than the Declarant; (ii) five years after the date of the first conveyance of a condominium unit to a unit owner other than the Declarant (the maximum time period permitted by subsection 55-79.74A of the Condominium Act); or (iii) the date specified by the Declarant in a notice to the Unit Owners Association that the Declarant Control Period so to terminate on that date. For the purpose of the preceding sentence, the calculation of Common Element Interests shall be based, at any given time, on the Common Element Interests to be assigned to all units then registered within the Virginia Real Estate Board.
 
-(4) “Limited Common Expenses” means expenses separately assessed against one or more but less than all of the condominium units generally in accordance with the use of the services, as permitted by section 55-79.83 of the Condominium Act and Section 5.1 of these Bylaws. Except where the context requires otherwise, common expenses shall include Limited Common Expenses.
+> (4) “Limited Common Expenses” means expenses separately assessed against one or more but less than all of the condominium units generally in accordance with the use of the services, as permitted by section 55-79.83 of the Condominium Act and Section 5.1 of these Bylaws. Except where the context requires otherwise, common expenses shall include Limited Common Expenses.
 
-(5) “Majority Vote” means a simple majority (more than fifty percent) of the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage vote means that percentage vote with respect to the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage approval or vote of the Mortgagees means approval or a vote by the Mortgagees of condominium units to which such percentage of the total number of votes appertain.
+> (5) “Majority Vote” means a simple majority (more than fifty percent) of the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage vote means that percentage vote with respect to the votes actually cast in person or by proxy at a duly held meeting at which a quorum is present. Any specified percentage approval or vote of the Mortgagees means approval or a vote by the Mortgagees of condominium units to which such percentage of the total number of votes appertain.
 
-(6) “Mortgagee” means an institutional lender holding a first mortgage or first deed of trust ("Mortgage") encumbering a condominium unit in the Condominium which has notified the Unit Owners Association of its status and has requested all rights under the condominium instruments. For the purposes of Article 8, when any right is to be given to a Mortgagee, the Board of Directors shall also give such right to the Federal Home Loan Mortgage Corporation, Fannie Mae (formerly the Federal National Mortgage Association), the Department of Veterans Affairs, the Federal Housing Administration, the Farmer's Home Administration, the Government National Mortgage Association and any other public or private secondary mortgage market entity participating in purchasing or guarantying [sic] Mortgages if the Board has notice of such participation.
+> (6) “Mortgagee” means an institutional lender holding a first mortgage or first deed of trust ("Mortgage") encumbering a condominium unit in the Condominium which has notified the Unit Owners Association of its status and has requested all rights under the condominium instruments. For the purposes of Article 8, when any right is to be given to a Mortgagee, the Board of Directors shall also give such right to the Federal Home Loan Mortgage Corporation, Fannie Mae (formerly the Federal National Mortgage Association), the Department of Veterans Affairs, the Federal Housing Administration, the Farmer's Home Administration, the Government National Mortgage Association and any other public or private secondary mortgage market entity participating in purchasing or guarantying [sic] Mortgages if the Board has notice of such participation.
 
-(7) “Officer” means any person holding office pursuant to Article 4, but contrary to section 55-79.41 of the Condominium Act, shall not mean members of the Board of Directors unless such directors are also Officers pursuant to Article 4.
+> (7) “Officer” means any person holding office pursuant to Article 4, but contrary to section 55-79.41 of the Condominium Act, shall not mean members of the Board of Directors unless such directors are also Officers pursuant to Article 4.
 
-(8) “Reserved Common Element” means a common element in which the Board of Directors has granted a revocable license for exclusive use by less than all of the unit owners.
+> (8) “Reserved Common Element” means a common element in which the Board of Directors has granted a revocable license for exclusive use by less than all of the unit owners.
 
-(9) “Unit Owners Association” or “Association” means the unincorporated, non-profit association of all the unit owners owning condominium units in the Condominium.
+> (9) “Unit Owners Association” or “Association” means the unincorporated, non-profit association of all the unit owners owning condominium units in the Condominium.
 
 ## Article 2 - Unit Owners Association
 
@@ -109,7 +48,7 @@ The annual meetings of the Unit Owners Association shall be held on weekdays (ot
 
 Meetings of the Unit Owners Association shall be held at the principal office of the Association or at such other suitable place convenient to the unit owners as may be designated by the Board of Directors.
 
-Section 2.4. **Special Meetings**.
+### Section 2.4. **Special Meetings**.
 
 > (a) **Generally**. The President shall call a special meeting of the Unit Owners Association: (i) if so directed by resolution of the Board of Directors; (ii) after the termination of the Declarant Control Period, upon a petition signed and presented to the Secretary by unit owners of units to which not less than twenty-five percent of the total Common Element Interest appertains; or (iii) during the Declarant Control Period, upon request of the Declarant. The signatures on a petition requesting a special meeting shall. be valid for a period of one hundred-eighty days after the date of the first such signature. Such resolution, petition or request must (1) specify the time and place at which meeting is to be held, (2) either specify a date on which the meeting is to be held which will permit the Secretary to comply with section 2.5, or else specify that the Secretary shall designate the date of the meeting, (3) specify the purposes for which the meeting is to be held, and (4) be delivered to the Secretary. The notice of any special meeting shall state the time, place and purpose thereof. No business shall be transacted at a special meeting except as stated in the notice.
 
@@ -271,7 +210,7 @@ The Board of Directors shall impose appropriate standards of performance upon th
 
 ### Section 3.8. **Action Without Meeting**.
 
-- [ ] ...
+Any action by the Board of Directors required or permitted to be taken at any meeting may be taken without a meeting if all the directors shall individually or collectively consent in writing to such action. Any such written consent shall be filed with the minutes of the proceedings of the Board of Directors.
 
 ### Section 3.9. **Compensation**.
 
@@ -345,7 +284,7 @@ The Treasurer shall (together with the managing agent): be responsible for Unit 
 
 - [ ] ...
 
-## Article 7 - Repair and Reconstruction After Fire or Other
+## Article 7 - Repair and Reconstruction After Fire or Other Casualty
 
 - [ ] ...
 
