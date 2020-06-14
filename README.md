@@ -1,4 +1,66 @@
-- [Bylaws](#bylaws) - [Article 1 - General Provisions](#article-1---general-provisions) - [Section 1.1. **Name**.](#section-11-name) - [Section 1.2. **Office**.](#section-12-office) - [Section 1.3. **Definitions**.](#section-13-definitions) - [Article 2 - Unit Owners Association](#article-2---unit-owners-association) - [Section 2.1. **Composition**.](#section-21-composition) - [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings) - [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings) - [Section 2.4. **Special Meetings**.](#section-24-special-meetings) - [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings) - [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings) - [Section 2.7. **Order of Business**.](#section-27-order-of-business) - [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings) - [Section 2.9. **Voting**.](#section-29-voting) - [Section 2.10. **Proxies**.](#section-210-proxies) - [Article 3 - Board of Directors](#article-3---board-of-directors) - [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties) - [Section 3.2. **Managing Agent**.](#section-32-managing-agent) - [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office) - [Section 3.4. **Election of Directors**.](#section-34-election-of-directors) - [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors) - [Section 3.6. **Vacancies**.](#section-36-vacancies) - [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors) - [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting) - [Section 3.9. **Compensation**.](#section-39-compensation) - [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent) - [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association) - [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors) - [Article 4 - Officers](#article-4---officers) - [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties) - [Section 4.2. **Election of Officers**.](#section-42-election-of-officers) - [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers) - [Section 4.4. **President**.](#section-44-president) - [Section 4.5. **Vice President**.](#section-45-vice-president) - [Section 4.6. **Secretary**.](#section-46-secretary) - [Section 4.7. **Treasurer**.](#section-47-treasurer) - [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents) - [Article 5 - Operation of the Property](#article-5---operation-of-the-property) - [Article 6 - Insurance](#article-6---insurance) - [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other) - [Article 8 - Mortgages](#article-8---mortgages) - [Article 9 - Compliance and Default](#article-9---compliance-and-default) - [Section 9.1 **Relief**.](#section-91-relief) - [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments) - [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien) - [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection) - [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws) - [Section 10.1. **Amendments**.](#section-101-amendments) - [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees) - [Article 11 - Miscellaneous](#article-11---miscellaneous) - [Section 11.1. **Notices**.](#section-111-notices) - [Section 11.2. **Captions**.](#section-112-captions) - [Section 11.3. **Gender**.](#section-113-gender) - [Section 11.4. **Construction**.](#section-114-construction) - [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology) - [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution) - [Section 12.1 **Direct Communication**.](#section-121-direct-communication) - [Section 12.2 **Mediation**.](#section-122-mediation) - [Section 12.3 **Arbitration**.](#section-123-arbitration) - [Section 12.4 **Location**.](#section-124-location) - [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights) - [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
+- [Bylaws](#bylaws)
+	- [Article 1 - General Provisions](#article-1---general-provisions)
+		- [Section 1.1. **Name**.](#section-11-name)
+		- [Section 1.2. **Office**.](#section-12-office)
+		- [Section 1.3. **Definitions**.](#section-13-definitions)
+	- [Article 2 - Unit Owners Association](#article-2---unit-owners-association)
+		- [Section 2.1. **Composition**.](#section-21-composition)
+		- [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings)
+		- [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings)
+		- [Section 2.4. **Special Meetings**.](#section-24-special-meetings)
+		- [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings)
+		- [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings)
+		- [Section 2.7. **Order of Business**.](#section-27-order-of-business)
+		- [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings)
+		- [Section 2.9. **Voting**.](#section-29-voting)
+		- [Section 2.10. **Proxies**.](#section-210-proxies)
+	- [Article 3 - Board of Directors](#article-3---board-of-directors)
+		- [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties)
+		- [Section 3.2. **Managing Agent**.](#section-32-managing-agent)
+		- [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office)
+		- [Section 3.4. **Election of Directors**.](#section-34-election-of-directors)
+		- [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors)
+		- [Section 3.6. **Vacancies**.](#section-36-vacancies)
+		- [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors)
+		- [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting)
+		- [Section 3.9. **Compensation**.](#section-39-compensation)
+		- [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent)
+		- [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association)
+		- [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors)
+	- [Article 4 - Officers](#article-4---officers)
+		- [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties)
+		- [Section 4.2. **Election of Officers**.](#section-42-election-of-officers)
+		- [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers)
+		- [Section 4.4. **President**.](#section-44-president)
+		- [Section 4.5. **Vice President**.](#section-45-vice-president)
+		- [Section 4.6. **Secretary**.](#section-46-secretary)
+		- [Section 4.7. **Treasurer**.](#section-47-treasurer)
+		- [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents)
+	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
+	- [Article 6 - Insurance](#article-6---insurance)
+	- [Article 7 - Repair and Reconstruction After Fire or Other Casualty](#article-7---repair-and-reconstruction-after-fire-or-other-casualty)
+	- [Article 8 - Mortgages](#article-8---mortgages)
+	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
+		- [Section 9.1 **Relief**.](#section-91-relief)
+		- [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments)
+		- [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien)
+		- [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection)
+	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
+		- [Section 10.1. **Amendments**.](#section-101-amendments)
+		- [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
+	- [Article 11 - Miscellaneous](#article-11---miscellaneous)
+		- [Section 11.1. **Notices**.](#section-111-notices)
+		- [Section 11.2. **Captions**.](#section-112-captions)
+		- [Section 11.3. **Gender**.](#section-113-gender)
+		- [Section 11.4. **Construction**.](#section-114-construction)
+		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
+	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
+		- [Section 12.1 **Direct Communication**.](#section-121-direct-communication)
+		- [Section 12.2 **Mediation**.](#section-122-mediation)
+		- [Section 12.3 **Arbitration**.](#section-123-arbitration)
+		- [Section 12.4 **Location**.](#section-124-location)
+		- [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights)
+		- [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
 
 # Bylaws
 
@@ -192,9 +254,9 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 ### Section 3.7. **Meetings of Directors**.
 
-> - [ ] (a) **Organization Meeting**.
+> (a) **Organization Meeting**. The first meeting of the Board of Directors following the annual meeting of the Unit Owners Association shall be held within thirty days thereafter at such and place as shall be determined by a majority of the directors at the annual meeting. 
 
-> - [ ] (b) **Regular Meetings**.
+> (b) **Regular Meetings**. Regular meetings of the Board of Directors may be held at such time and place as shall be determined from time to time by a majority of the directors, but such meetings shall be held at least quarterly during each fiscal year. 
 
 > - [ ] (c) **Special Meetings**.
 
@@ -204,7 +266,7 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 > - [ ] (f) **Waiver of Notice**.
 
-> - [ ] (g) **Quorum of Board of Directors**.
+> (g) **Quorum of Board of Directors**. At all meetings of the Board of Directors a majority of the directors shall constitute a quorum for the transaction of business, and the votes of a majority of the directors present at a meeting at which a quorum is present shall constitue the decision of the Board of Directors. If at any meeting of the Board of Directors there shall be less than a quorum present, a majority of those present may adjourn or recess the meeting from time to time. At any such adjourned meeting at wich a quorum is present, any business which might have been transacted at the meeting originally called may be transacted without further notice. A director who participates in a meeting by means of telephone or similar communications equipment whereby all directors participating in the meeting can hear each other at the same time shall be deemed present at the meeting for all purposes. 
 
 > - [ ] (h) **Conduct of Meetings**.
 
