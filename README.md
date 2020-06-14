@@ -94,69 +94,77 @@ The Board of Directors shall have all of the powers and duties necessary for the
 
 > (3) Provide for the operation, care, upkeep and maintenance of all of the Property and services of the Condominium; _provided_, _however_, that after the Declarant Control Period, (1) any signification reduction therein, or (2) contracting therefor at rates twenty percent or more below the reasonable costs (as budgeted for an average of the prior three years) shall first require a Majority Vote of the unit owners or prior written approval by owners of units to which more than fifty person of the Toal number of votes in the Association appertain.
 
-(4) Designate, hire and dismiss the personnel necessary for the maintenance, operation, repair and replacement of the common elements and provide services for the Property and, where appropriate, provide for the compensation of such personnel and for the purchase of equipment, supplies and material to be used by such personnel in the performance of their duties, which supplies and equipment shall be deemed part of the property.
+> (4) Designate, hire and dismiss the personnel necessary for the maintenance, operation, repair and replacement of the common elements and provide services for the Property and, where appropriate, provide for the compensation of such personnel and for the purchase of equipment, supplies and material to be used by such personnel in the performance of their duties, which supplies and equipment shall be deemed part of the property.
 
-(5) Collect the assessments against the unit owners, deposit the proceeds thereof in bank depositories designated by the Board of Directors and use the proceeds to carry out the administration of the Property.
+> (5) Collect the assessments against the unit owners, deposit the proceeds thereof in bank depositories designated by the Board of Directors and use the proceeds to carry out the administration of the Property.
 
-(6) Adopt and amend any rules and regulations in accordance with Subsection 5.8(b); _provided_, _however_, that such rules and regulations shall not be in conflict with the Condominium Act or the condominium instruments.
+> (6) Adopt and amend any rules and regulations in accordance with Subsection 5.8(b); _provided_, _however_, that such rules and regulations shall not be in conflict with the Condominium Act or the condominium instruments.
 
-(7) Open bank accounts on behalf of the Association and designate the signatories thereon.
+> (7) Open bank accounts on behalf of the Association and designate the signatories thereon.
 
-(8) Make, or contract for the making of, repairs, additions and improvements to or alterations and restoration of the Property, in accordance with these Bylaws, after damage or destruction by fire or other casualty, or as a result of condemnation or eminent domain proceedings.
+> (8) Make, or contract for the making of, repairs, additions and improvements to or alterations and restoration of the Property, in accordance with these Bylaws, after damage or destruction by fire or other casualty, or as a result of condemnation or eminent domain proceedings.
 
-(9) Enforce by legal means the provisions of the Declaration, these Bylaws and the rules and regulations, act on behalf of the unit owners with respect to all matters arising out of any eminent domain proceeding, and notify the unit owners of any litigation against the Association involving a claim in excess of ten percent of the amount of the annual budget.
+> (9) Enforce by legal means the provisions of the Declaration, these Bylaws and the rules and regulations, act on behalf of the unit owners with respect to all matters arising out of any eminent domain proceeding, and notify the unit owners of any litigation against the Association involving a claim in excess of ten percent of the amount of the annual budget.
 
-(10) Obtain and carry insurance against casualties and liabilities, as provided in Article 6, pay the premiums therefor and adjust and settle any claims thereunder.
+> (10) Obtain and carry insurance against casualties and liabilities, as provided in Article 6, pay the premiums therefor and adjust and settle any claims thereunder.
 
-(11) Pay the cost of all authorized services rendered to the Association and not billed to unit owners of individual units or otherwise provided for in Sections 5.1 and 5.2.
+> (11) Pay the cost of all authorized services rendered to the Association and not billed to unit owners of individual units or otherwise provided for in Sections 5.1 and 5.2.
 
-(12) In accordance with section 55-79.74:1 of the Condominium Act, keep books with detailed accounts in chronological order of the receipts and expenditures affecting the Property, and the administration of the Condominium, specifying the expenses of maintenance and repair of the common elements and any other expenses incurred. Such books and vouchers accrediting the entries therein shall be available for examination by the unit owner’s, their attorneys, accountants, Mortgagees and authorized agents during general business hours on business days at the times and in the manner set and announced by the Board of Directors for the general knowledge of the unit owners. All books and records shall be kept in accordance with generally accepted account principles, and the same shall be audited at least once each year by an independent auditor retained by the Board of Directors who shall not be a resident of the Condominium or a unit owner. The cost of such audit shall be a common expense.
+> (12) In accordance with section 55-79.74:1 of the Condominium Act, keep books with detailed accounts in chronological order of the receipts and expenditures affecting the Property, and the administration of the Condominium, specifying the expenses of maintenance and repair of the common elements and any other expenses incurred. Such books and vouchers accrediting the entries therein shall be available for examination by the unit owner’s, their attorneys, accountants, Mortgagees and authorized agents during general business hours on business days at the times and in the manner set and announced by the Board of Directors for the general knowledge of the unit owners. All books and records shall be kept in accordance with generally accepted account principles, and the same shall be audited at least once each year by an independent auditor retained by the Board of Directors who shall not be a resident of the Condominium or a unit owner. The cost of such audit shall be a common expense.
 
-(13) Notify a Mortgagee of any default hereunder by the unit owner of the unit subject to such Mortgage, if such default continues for more than sixty days.
+> (13) Notify a Mortgagee of any default hereunder by the unit owner of the unit subject to such Mortgage, if such default continues for more than sixty days.
 
-- [ ] (14) ...
+> (14) Borrow money on behalf of the Condominium when requried in connection with any one instance relating to the operation, care, upkeep and maintenance of the common elements; _provided_, _however_, that (except during the Declarant Control Period) either a Majority Vote obtained at a meeting duly called and held for such purpose in accordance with the provisions of these Bylaws or the written approval of unit owners of units to which more than fifty percent of the votes in the Association appertain, shall be required to borrow any sum in excess of one percent of the total annual assessment for common expenses for that fiscal year. If any sum borrowed by the Board of Directors on behalf of the Condominium pursuant to the authority contained in this paragraph (14) is not repaid by the Association, a unit owner who pays to the creditor a percentage of the total amount due equal to such unity owner's Common Element Interest in the Condominium shall be entitled to obtain from the creditor a release of any judgement or other lien which such creditor shall have filed or shall have the right to file against such unit owner's condominium unit, and the Association shall not be entitled to assess the unit for payment of the remaining amount due such creditor.
 
-(15) Acquire, hold and dispose of condominium units and mortgage the same without the prior approval of the Association if such expenditures and hypothecations are included in the budget adopted by the Association.
+> (15) Acquire, hold and dispose of condominium units and mortgage the same without the prior approval of the Association if such expenditures and hypothecations are included in the budget adopted by the Association.
 
-(16) In its sole discretion, from time to time, designate certain common elements as Reserved Common Elements and impose such restrictions and conditions on the use thereof as the Board of Directors deems appropriate.
+> (16) In its sole discretion, from time to time, designate certain common elements as Reserved Common Elements and impose such restrictions and conditions on the use thereof as the Board of Directors deems appropriate.
 
-(17) Grant and accept easements through or over the common elements in accordance with subsection 55-79.80B of the Condominium Act.
+> (17) Grant and accept easements through or over the common elements in accordance with subsection 55-79.80B of the Condominium Act.
 
-(18) Upon receipt of such payment as may be established by the Board of Directors in compliance with section 55-79.97 of the Condominium Act. Furnish the statement required by section 55-79.97 of the Condominium Act within ten days after the receipt of a written requires therefore from any unit owner, substantially in the form set forth on Exhibit A to these Bylaws and designated “Certificate for Resale.”
+> (18) Upon receipt of such payment as may be established by the Board of Directors in compliance with section 55-79.97 of the Condominium Act. Furnish the statement required by section 55-79.97 of the Condominium Act within ten days after the receipt of a written requires therefore from any unit owner, substantially in the form set forth on Exhibit A to these Bylaws and designated “Certificate for Resale.”
 
-(19) Do such other things and acts not inconsistent with the Condominium Act or the condominium instruments which the Board of Directors may be authorized to do by a resolution of the Association.
+> (19) Do such other things and acts not inconsistent with the Condominium Act or the condominium instruments which the Board of Directors may be authorized to do by a resolution of the Association.
 
 ### Section 3.2. **Managing Agent**.
 
-> - [ ] (a) **Requirements**.
+The Board of Directors shall employ for the Condominium a "managing agent" at compensation to be establised by the Board.
 
-> - [ ] (b) **Duties**.
+> (a) **Requirements**.
 
-> - [ ] (c) **Standards**.
+The managing agent shall be a bona fide business enterprise, unaffiliated with teh Declarant, which manages common interest residential communities. Such firm (either directly or through affiliated or predecessor firms) or its principals shall have a minimum of two years experience in real estate community management and shall employ persons possessing a high level of competence in the technical skills necessary to proper management of the Condominium. The managing agent must be able to advise the Board of Directors regarding the administrative operation of the Condominium and shall employ personnel knowledgeable in teh areas of condominium insurance, accounting, contract negotiation, labor relations and condominium regulation.
 
-> > - [ ] (1)
+> (b) **Duties**.
 
-> > - [ ] ( 2)
+The managing agent shall perform duties and services as the Board of Directors shall direct. Such duties adn services may include, without limitation, the duties listed in paragraphs (1), (3), (4), (5), (8), (9), (10), (11), (12), (13), (18) and (19) of [Section 3.1](#section-31-powers-and-duties). The Board of Directors may delegate to the managing agent all of the powers granted to the Board of Directors by these Bylaws other than the powers set forth in paragraphs (2), (6), (7), (14), (15), (16), and (17) of [Section 3.1](#section-31-powers-and-duties). The managing agent shall perform the obligations, duties and services relating to the management of the Property, the rights of the Mortgagees adn the maintenance of reserve funds in compliance with the provisions of these Bylaws.
 
-> > - [ ] ( 3)
+> (c) **Standards**.
 
-> > - [ ] ( 4)
+The Board of Directors shall impose appropriate standards of performance upon the management agent. Unless the management agent is instructed otherwise by the Board of Directors.
 
-> > - [ ] ( 5)
+> > (1) the accrual method of accounting shall be employed and expenses required by these Bylaws to be charged to more than one but less than all of the unit owners shall be accounted for and reported separately;
 
-> > - [ ] ( 6)
+> > (2) two or more persons shall be responsible for handling cash to maintain adequate financial control procedures;
 
-> > > - [ ] ( A)
+> > (3) cash accounts of the Unit Owners Association shall not be commingled with any other entity's accounts;
 
-> > > - [ ] ( B)
+> > (4) no remuneration shall be accepted by the managing agent from vendors, independent contractors or others providing goods or services to the Association whether in the form of commissions, finders fees, service fees or otherwise; any discounts received shall benefit the Association;
 
-> > > - [ ] ( C)
+> > (5) any financial or other interest which the managing agent may have in any firm providing goods or services to the Association shall be disclosed in advance to the Board of Directors; and
 
-> > > - [ ] ( D)
+> > (6) a monthly financial report shall be prepared for the Association containing:
 
-> > > - [ ] ( E)
+> > > (A) an "income statement" reflecting all income and expense activity for the preceding period on an accrual basis;
 
-> > > - [ ] ( F)
+> > > (B) an "account activity statement" reflecting all receipt and disbursement activity for the preceding period on a cash basis;
+
+> > > (C) an "account activity statement" reflecting the status of all accounts in an "actual" versus "projected" (budget) format;
+
+> > > (D) a "balance sheet" reflecting the financial condition of the Association on an unaudited basis;
+
+> > > (E) a "budget report" reflecting any actual or pending obligations which are in excess of budgeted amounts by an amount exceeding the operating reserves or ten percent of major budget category (as distinct from a specific line item in an expanded chart of accounts); and
+
+> > > (F) a "delinquency report" listing all unit owners who are delinquent in paying condominium assessments and describing the status of any actions to collect such assessments.
 
 > - [ ] (d) **Limitations**.
 
@@ -242,7 +250,7 @@ Section 3.13. **Covenants Committee**.
 
 ### Section 4.2. **Election of Officers**.
 
-- [ ] ...
+The Officers of the Unit Owners Association shall be elected annually by the Board of Directors at the organizational meeting of each new Board and shall hold office at the pleasure of the Board. Any Officer may hold more than one position; _provided_, _however_, that three different individuals shall hold the offices of President, Vice President and Secretary and the President shall not simultaneously serve as the Treasurer. Except for death, resignation or removal, the Officers hold office until the Board elects their respective successors.
 
 ### Section 4.3. **Removal or Resignation of Officers**.
 
