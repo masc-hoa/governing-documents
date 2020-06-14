@@ -1,65 +1,4 @@
-- [Bylaws](#bylaws)
-	- [Article 1 - General Provisions](#article-1---general-provisions)
-		- [Section 1.1. **Name**.](#section-11-name)
-		- [Section 1.2. **Office**.](#section-12-office)
-		- [Section 1.3. **Definitions**.](#section-13-definitions)
-	- [Article 2 - Unit Owners Association](#article-2---unit-owners-association)
-		- [Section 2.1. **Composition**.](#section-21-composition)
-		- [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings)
-		- [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings)
-		- [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings)
-		- [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings)
-		- [Section 2.7. **Order of Business**.](#section-27-order-of-business)
-		- [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings)
-		- [Section 2.9. **Voting**.](#section-29-voting)
-		- [Section 2.10. **Proxies**.](#section-210-proxies)
-	- [Article 3 - Board of Directors](#article-3---board-of-directors)
-		- [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties)
-		- [Section 3.2. **Managing Agent**.](#section-32-managing-agent)
-		- [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office)
-		- [Section 3.4. **Election of Directors**.](#section-34-election-of-directors)
-		- [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors)
-		- [Section 3.6. **Vacancies**.](#section-36-vacancies)
-		- [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors)
-		- [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting)
-		- [Section 3.9. **Compensation**.](#section-39-compensation)
-		- [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent)
-		- [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association)
-		- [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors)
-	- [Article 4 - Officers](#article-4---officers)
-		- [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties)
-		- [Section 4.2. **Election of Officers**.](#section-42-election-of-officers)
-		- [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers)
-		- [Section 4.4. **President**.](#section-44-president)
-		- [Section 4.5. **Vice President**.](#section-45-vice-president)
-		- [Section 4.6. **Secretary**.](#section-46-secretary)
-		- [Section 4.7. **Treasurer**.](#section-47-treasurer)
-		- [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents)
-	- [Article 5 - Operation of the Property](#article-5---operation-of-the-property)
-	- [Article 6 - Insurance](#article-6---insurance)
-	- [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other)
-	- [Article 8 - Mortgages](#article-8---mortgages)
-	- [Article 9 - Compliance and Default](#article-9---compliance-and-default)
-		- [Section 9.1 **Relief**.](#section-91-relief)
-		- [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments)
-		- [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien)
-		- [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection)
-	- [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws)
-		- [Section 10.1. **Amendments**.](#section-101-amendments)
-		- [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees)
-	- [Article 11 - Miscellaneous](#article-11---miscellaneous)
-		- [Section 11.1. **Notices**.](#section-111-notices)
-		- [Section 11.2. **Captions**.](#section-112-captions)
-		- [Section 11.3. **Gender**.](#section-113-gender)
-		- [Section 11.4. **Construction**.](#section-114-construction)
-		- [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology)
-	- [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution)
-		- [Section 12.1 **Direct Communication**.](#section-121-direct-communication)
-		- [Section 12.2 **Mediation**.](#section-122-mediation)
-		- [Section 12.3 **Arbitration**.](#section-123-arbitration)
-		- [Section 12.4 **Location**.](#section-124-location)
-		- [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights)
-		- [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
+- [Bylaws](#bylaws) - [Article 1 - General Provisions](#article-1---general-provisions) - [Section 1.1. **Name**.](#section-11-name) - [Section 1.2. **Office**.](#section-12-office) - [Section 1.3. **Definitions**.](#section-13-definitions) - [Article 2 - Unit Owners Association](#article-2---unit-owners-association) - [Section 2.1. **Composition**.](#section-21-composition) - [Section 2.2. **Annual Meetings**.](#section-22-annual-meetings) - [Section 2.3. **Place of Meetings**.](#section-23-place-of-meetings) - [Section 2.5. **Notice of Meetings**.](#section-25-notice-of-meetings) - [Section 2.6. **Quorum and Adjournment of Meetings**.](#section-26-quorum-and-adjournment-of-meetings) - [Section 2.7. **Order of Business**.](#section-27-order-of-business) - [Section 2.8. **Conduct of Meetings**.](#section-28-conduct-of-meetings) - [Section 2.9. **Voting**.](#section-29-voting) - [Section 2.10. **Proxies**.](#section-210-proxies) - [Article 3 - Board of Directors](#article-3---board-of-directors) - [Section 3.1. **Powers and Duties**.](#section-31-powers-and-duties) - [Section 3.2. **Managing Agent**.](#section-32-managing-agent) - [Section 3.3. **Number and Term of Office**.](#section-33-number-and-term-of-office) - [Section 3.4. **Election of Directors**.](#section-34-election-of-directors) - [Section 3.5. **Removal or Resignation of Directors**.](#section-35-removal-or-resignation-of-directors) - [Section 3.6. **Vacancies**.](#section-36-vacancies) - [Section 3.7. **Meetings of Directors**.](#section-37-meetings-of-directors) - [Section 3.8. **Action Without Meeting**.](#section-38-action-without-meeting) - [Section 3.9. **Compensation**.](#section-39-compensation) - [Section 3.10. **Board of Directors as Agent**.](#section-310-board-of-directors-as-agent) - [Section 3.11. **Liability of the Board of Directors, Officers, Unit Owners and Unit Owners Association**.](#section-311-liability-of-the-board-of-directors-officers-unit-owners-and-unit-owners-association) - [Section 3.12. **Common or Interested Directors**.](#section-312-common-or-interested-directors) - [Article 4 - Officers](#article-4---officers) - [Section 4.1. **Designation and Duties**.](#section-41-designation-and-duties) - [Section 4.2. **Election of Officers**.](#section-42-election-of-officers) - [Section 4.3. **Removal or Resignation of Officers**.](#section-43-removal-or-resignation-of-officers) - [Section 4.4. **President**.](#section-44-president) - [Section 4.5. **Vice President**.](#section-45-vice-president) - [Section 4.6. **Secretary**.](#section-46-secretary) - [Section 4.7. **Treasurer**.](#section-47-treasurer) - [Section 4.8. **Execution of Documents**.](#section-48-execution-of-documents) - [Article 5 - Operation of the Property](#article-5---operation-of-the-property) - [Article 6 - Insurance](#article-6---insurance) - [Article 7 - Repair and Reconstruction After Fire or Other](#article-7---repair-and-reconstruction-after-fire-or-other) - [Article 8 - Mortgages](#article-8---mortgages) - [Article 9 - Compliance and Default](#article-9---compliance-and-default) - [Section 9.1 **Relief**.](#section-91-relief) - [Section 9.2 **Lien for Assessments**.](#section-92-lien-for-assessments) - [Section 9.3 **Supplemental Enforcement of the Lien**.](#section-93-supplemental-enforcement-of-the-lien) - [Section 9.4 **Subordination and Mortgage Protection**.](#section-94-subordination-and-mortgage-protection) - [Article 10 - Amendments to Bylaws](#article-10---amendments-to-bylaws) - [Section 10.1. **Amendments**.](#section-101-amendments) - [Section 10.2. **Approval of Mortgagees**.](#section-102-approval-of-mortgagees) - [Article 11 - Miscellaneous](#article-11---miscellaneous) - [Section 11.1. **Notices**.](#section-111-notices) - [Section 11.2. **Captions**.](#section-112-captions) - [Section 11.3. **Gender**.](#section-113-gender) - [Section 11.4. **Construction**.](#section-114-construction) - [Section 11.5. **Use of New Technology**.](#section-115-use-of-new-technology) - [Article 12 - Alternative Dispute Resolution](#article-12---alternative-dispute-resolution) - [Section 12.1 **Direct Communication**.](#section-121-direct-communication) - [Section 12.2 **Mediation**.](#section-122-mediation) - [Section 12.3 **Arbitration**.](#section-123-arbitration) - [Section 12.4 **Location**.](#section-124-location) - [Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.](#section-125-sole-rememdy-waiver-of-judicial-rights) - [Section 12.6 **Disputes Requiring Emergency Relief**.](#section-126-disputes-requiring-emergency-relief)
 
 # Bylaws
 
@@ -319,11 +258,11 @@ The Vice President shall take the place of th President and perform the duties o
 
 ### Section 4.6. **Secretary**.
 
-The Secretary shall: keep the minutes of all meetings of the Unit Owners Association and of the Board of Directors; have charge of such books and papers as the Board may direct; give or cause to be given all notices required to be given by the Association; maintain a register setting forth the place to which all notices to unit owners and Mortgagees hereunder shall be delivered; and, in general, perform all the duties incident to the office of Secretary. Pursuant to section 55-79.93:1 of the Condominium Act, after the termination of the Declarant Control Period, the Secretary shall file any required annual report with the Virginia Real Estate Board and pay the required fee. The Secretary may delegate the responsibility to file to a managing agent. 
+The Secretary shall: keep the minutes of all meetings of the Unit Owners Association and of the Board of Directors; have charge of such books and papers as the Board may direct; give or cause to be given all notices required to be given by the Association; maintain a register setting forth the place to which all notices to unit owners and Mortgagees hereunder shall be delivered; and, in general, perform all the duties incident to the office of Secretary. Pursuant to section 55-79.93:1 of the Condominium Act, after the termination of the Declarant Control Period, the Secretary shall file any required annual report with the Virginia Real Estate Board and pay the required fee. The Secretary may delegate the responsibility to file to a managing agent.
 
 ### Section 4.7. **Treasurer**.
 
-- [ ] ...
+The Treasurer shall (together with the managing agent): be responsible for Unit Owners Association funds adn securities; keep full and accurate financial records and books of account showing all receipts and disbursements; prepare all required financial data; deposit all monies and other valuable effects in the name of the Board of Directors, the Association or the managing agent, in such depositories as may from time to tme be designated by the Board; and, in general, perform all the duties incident to the office of treasurer. The Treasurer shall ensure that the statements of account of the Association are reconciled no less than quarterly.
 
 ### Section 4.8. **Execution of Documents**.
 
@@ -366,12 +305,15 @@ The Secretary shall: keep the minutes of all meetings of the Unit Owners Associa
 > - [ ] (h) **<a id="other-remedies">Other Remedies</a>**.
 
 ### Section 9.2 **Lien for Assessments**.
+
 - [ ] ...
 
 ### Section 9.3 **Supplemental Enforcement of the Lien**.
+
 - [ ] ...
 
 ### Section 9.4 **Subordination and Mortgage Protection**.
+
 - [ ] ...
 
 ## Article 10 - Amendments to Bylaws
@@ -432,18 +374,17 @@ If the dispute cannot be resolved through direct communication of the parties, e
 
 > (a) **Method**. If the dispute cannot be resolved through mediation, either party may request appointment of one or more neutral arbitrators. If the parties cannot agree on a single arbitrator, then each party shall appoint one arbitrator and the two appointed arbitrators just select the third arbitrator. Each arbitrator should be properly credentialed with expert knowledge and practical experience regarding dispute. The initiating Person shall give written notice of its decision to arbitrate by providing a specific statement setting forth the nature of the dispute, the amount involved and the remedy sought. The parties shall have an equal and fair opportunity to present their respective positions to the arbitrators, orally or in writing, as the arbitrators may specify depending on the nature of the dispute. The arbitrators may require such testimony, materials and documentation as they may determine to be appropriate. The arbitrators shall provide a written resolution within thirty days after the conclusion of the presentations of the parties and receipt of requested materials and documents.
 
-> (b) **Costs**. The arbitrator shall award to the prevailing party, if any, as determined by the arbitrator, all of its costs and expenses including any attorney's fees, arbitrator's fees and out-of-pocket expenses of any kind. The term "prevailing party" shall mean the party whose position is most nearly upheld in the arbitration. (For example, the prevailing party would be the party who is required to pay $1000.00 in the arbitration proceeding were such party had, prior to the commencement of the arbitration, offered $500.00 by way of settlement and the opposing party, refusing such offer, had claimed entitlement to $10,000.00.)
+> (b) **Costs**. The arbitrator shall award to the prevailing party, if any, as determined by the arbitrator, all of its costs and expenses including any attorney's fees, arbitrator's fees and out-of-pocket expenses of any kind. The term "prevailing party" shall mean the party whose position is most nearly upheld in the arbitration. (For example, the prevailing party would be the party who is required to pay $1000.00 in the arbitration proceeding were such party had, prior to the commencement of the arbitration, offered $500.00 by way of settlement and the opposing party, refusing such offer, had claimed entitlement to \$10,000.00.)
 
 > (c) **Binding Nature; Applicable Law**. The consideration of the parties to be bound by arbitration is not only the waiver of access to determinatin by a court and/or jury, but also the waiver of any rights to appeal the arbitration finding other than for the reasons set forth in Sections 8.01-581.010 and 8.01-581.011 of the Code of Virginia (1950), as amended. A judgment upon an award rendered by the arbitrator maybe entered any in any court having jurisdiction. Unless otherwise provided in this Article, the terms of Sections 8.01-577 and 8.01-581-01 **et seq**. of the Code of Virgina (1950), as amended, shall apply to the proceedings under this subsection.
 
-### Section 12.4 **Location**. 
+### Section 12.4 **Location**.
 
 The alternative dispute resolution proceedings shall be held in Fairfax County, Virginia unless otherwise mutually agreed by the parties
 
-
 ### Section 12.5 **Sole Rememdy; Waiver of Judicial Rights**.
 
-The Declarant, the Unit Owners Association and each unit owner expressly consent to the procedures established in this Article as their sole and exclusive remedy, and expressly waive any right they may have to seek resolution of any dispute contemplated by this Article in any court of law or equity, and any right to trial by judge or jury; _provided_, _however_, that any party may pursue judicial adjudication of a decision of the Board of Directors: (i) suspending party's right to use a portion of the common elements pursuant to [Subsection 9.1(h)](#other-remedies); (ii)  imposing a charge pursuant to [Subsection 9.1(g)](#charges); or (iii) a judicial grant of injunctive relief obtained pursuant to [Subsection 9.1(e)](#abating-and-enjoining-violations-by-unit-owners). The provisions of this Article shall not reduce or delay the Association's rights to levy a late charge, collect interest or file and pursue a lien as provided in Articles [5](#article-5---operation-of-the-property) and [9](#article-9---compliance-and-default) with respect to any Assessment or other charges due from a unit owner hereunder. If a dispute involves the Declarant or the Association, no Person shall file a memorandum of _lis pendens_ or similar instrument that would encumber or create a lien upon the real estate owned either by the Declarant or the Association. 
+The Declarant, the Unit Owners Association and each unit owner expressly consent to the procedures established in this Article as their sole and exclusive remedy, and expressly waive any right they may have to seek resolution of any dispute contemplated by this Article in any court of law or equity, and any right to trial by judge or jury; _provided_, _however_, that any party may pursue judicial adjudication of a decision of the Board of Directors: (i) suspending party's right to use a portion of the common elements pursuant to [Subsection 9.1(h)](#other-remedies); (ii) imposing a charge pursuant to [Subsection 9.1(g)](#charges); or (iii) a judicial grant of injunctive relief obtained pursuant to [Subsection 9.1(e)](#abating-and-enjoining-violations-by-unit-owners). The provisions of this Article shall not reduce or delay the Association's rights to levy a late charge, collect interest or file and pursue a lien as provided in Articles [5](#article-5---operation-of-the-property) and [9](#article-9---compliance-and-default) with respect to any Assessment or other charges due from a unit owner hereunder. If a dispute involves the Declarant or the Association, no Person shall file a memorandum of _lis pendens_ or similar instrument that would encumber or create a lien upon the real estate owned either by the Declarant or the Association.
 
 ### Section 12.6 **Disputes Requiring Emergency Relief**.
 
