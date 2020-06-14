@@ -319,7 +319,7 @@ The Vice President shall take the place of th President and perform the duties o
 
 ### Section 4.6. **Secretary**.
 
-- [ ] ...
+The Secretary shall: keep the minutes of all meetings of the Unit Owners Association and of the Board of Directors; have charge of such books and papers as the Board may direct; give or cause to be given all notices required to be given by the Association; maintain a register setting forth the place to which all notices to unit owners and Mortgagees hereunder shall be delivered; and, in general, perform all the duties incident to the office of Secretary. Pursuant to section 55-79.93:1 of the Condominium Act, after the termination of the Declarant Control Period, the Secretary shall file any required annual report with the Virginia Real Estate Board and pay the required fee. The Secretary may delegate the responsibility to file to a managing agent. 
 
 ### Section 4.7. **Treasurer**.
 
