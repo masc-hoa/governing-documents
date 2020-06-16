@@ -200,7 +200,7 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 > - [ ] (d) **Executive Session**.
 
-> (e) **Notice**. Notice of meetings of the Board of Directors shall be given to each director, personnaly or by mail, telegraph or telephone, at least three business days prior to the day named for such meeting. No notice of the organizational meeting shall be necessary if such meeting is held immediately following the annual meeting. 
+> (e) **Notice**. Notice of meetings of the Board of Directors shall be given to each director, personally or by mail, telegraph or telephone, at least three business days prior to the day named for such meeting. No notice of the organizational meeting shall be necessary if such meeting is held immediately following the annual meeting. 
 
 > - [ ] (f) **Waiver of Notice**.
 
