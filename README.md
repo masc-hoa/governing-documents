@@ -198,7 +198,7 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 > (b) **Duties**.
 
-> The managing agent shall perform duties and services as the Board of Directors shall direct. Such duties adn services may include, without limitation, the duties listed in paragraphs (1), (3), (4), (5), (8), (9), (10), (11), (12), (13), (18) and (19) of [Section 3.1](#section-31-powers-and-duties). The Board of Directors may delegate to the managing agent all of the powers granted to the Board of Directors by these Bylaws other than the powers set forth in paragraphs (2), (6), (7), (14), (15), (16), and (17) of [Section 3.1](#section-31-powers-and-duties). The managing agent shall perform the obligations, duties and services relating to the management of the Property, the rights of the Mortgagees adn the maintenance of reserve funds in compliance with the provisions of these Bylaws.
+> The managing agent shall perform duties and services as the Board of Directors shall direct. Such duties and services may include, without limitation, the duties listed in paragraphs (1), (3), (4), (5), (8), (9), (10), (11), (12), (13), (18) and (19) of [Section 3.1](#section-31-powers-and-duties). The Board of Directors may delegate to the managing agent all of the powers granted to the Board of Directors by these Bylaws other than the powers set forth in paragraphs (2), (6), (7), (14), (15), (16), and (17) of [Section 3.1](#section-31-powers-and-duties). The managing agent shall perform the obligations, duties and services relating to the management of the Property, the rights of the Mortgagees and the maintenance of reserve funds in compliance with the provisions of these Bylaws.
 
 > (c) **Standards**.
 
@@ -332,7 +332,7 @@ The Secretary shall: keep the minutes of all meetings of the Unit Owners Associa
 
 ### Section 4.7. **Treasurer**.
 
-The Treasurer shall (together with the managing agent): be responsible for Unit Owners Association funds adn securities; keep full and accurate financial records and books of account showing all receipts and disbursements; prepare all required financial data; deposit all monies and other valuable effects in the name of the Board of Directors, the Association or the managing agent, in such depositories as may from time to tme be designated by the Board; and, in general, perform all the duties incident to the office of treasurer. The Treasurer shall ensure that the statements of account of the Association are reconciled no less than quarterly.
+The Treasurer shall (together with the managing agent): be responsible for Unit Owners Association funds and securities; keep full and accurate financial records and books of account showing all receipts and disbursements; prepare all required financial data; deposit all monies and other valuable effects in the name of the Board of Directors, the Association or the managing agent, in such depositories as may from time to tme be designated by the Board; and, in general, perform all the duties incident to the office of treasurer. The Treasurer shall ensure that the statements of account of the Association are reconciled no less than quarterly.
 
 ### Section 4.8. **Execution of Documents**.
 
