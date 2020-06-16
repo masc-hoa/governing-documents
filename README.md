@@ -194,7 +194,7 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 > (a) **Requirements**.
 
-> The managing agent shall be a bona fide business enterprise, unaffiliated with teh Declarant, which manages common interest residential communities. Such firm (either directly or through affiliated or predecessor firms) or its principals shall have a minimum of two years experience in real estate community management and shall employ persons possessing a high level of competence in the technical skills necessary to proper management of the Condominium. The managing agent must be able to advise the Board of Directors regarding the administrative operation of the Condominium and shall employ personnel knowledgeable in teh areas of condominium insurance, accounting, contract negotiation, labor relations and condominium regulation.
+> The managing agent shall be a bona fide business enterprise, unaffiliated with the Declarant, which manages common interest residential communities. Such firm (either directly or through affiliated or predecessor firms) or its principals shall have a minimum of two years experience in real estate community management and shall employ persons possessing a high level of competence in the technical skills necessary to proper management of the Condominium. The managing agent must be able to advise the Board of Directors regarding the administrative operation of the Condominium and shall employ personnel knowledgeable in the areas of condominium insurance, accounting, contract negotiation, labor relations and condominium regulation.
 
 > (b) **Duties**.
 
