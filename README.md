@@ -200,15 +200,13 @@ The Board of Directors shall employ for the Condominium a "managing agent" at co
 
 > - [ ] (d) **Executive Session**.
 
-> - [ ] (e) **Notice**.
+> (e) **Notice**. Notice of meetings of the Board of Directors shall be given to each director, personnaly or by mail, telegraph or telephone, at least three business days prior to the day named for such meeting. No notice of the organizational meeting shall be necessary if such meeting is held immediately following the annual meeting. 
 
 > - [ ] (f) **Waiver of Notice**.
 
 > (g) **Quorum of Board of Directors**. At all meetings of the Board of Directors a majority of the directors shall constitute a quorum for the transaction of business, and the votes of a majority of the directors present at a meeting at which a quorum is present shall constitue the decision of the Board of Directors. If at any meeting of the Board of Directors there shall be less than a quorum present, a majority of those present may adjourn or recess the meeting from time to time. At any such adjourned meeting at wich a quorum is present, any business which might have been transacted at the meeting originally called may be transacted without further notice. A director who participates in a meeting by means of telephone or similar communications equipment whereby all directors participating in the meeting can hear each other at the same time shall be deemed present at the meeting for all purposes.
 
-> (h) **Conduct of Meetings**.
-
-The President shall preside over all meetings of the Board of Directors and the Secretary shall keep the minutes of the meeting and record in a minute book all resolutions adopted at the meeting as well as a record of all transactions and proceedings occuring at such meetings. The then current edition of _Robert's Rules of Order, Newly Revised_, shall govern the conduct of the meetings of the Board of Directors when not in conflict with the Condominium Act or the condominium instruments.
+> (h) **Conduct of Meetings**. The President shall preside over all meetings of the Board of Directors and the Secretary shall keep the minutes of the meeting and record in a minute book all resolutions adopted at the meeting as well as a record of all transactions and proceedings occuring at such meetings. The then current edition of _Robert's Rules of Order, Newly Revised_, shall govern the conduct of the meetings of the Board of Directors when not in conflict with the Condominium Act or the condominium instruments.
 
 ### Section 3.8. **Action Without Meeting**.
 
