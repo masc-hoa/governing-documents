@@ -1,5 +1,5 @@
-Please be patient. I'm typing these in myself. 😅 If you'd like to help, hit me up at masc.residents  (at) gmail.com. I'd be happy to help you get set up. Any little bit will help. 
-Thanks all.
+Please be patient. We are hand jamming these in little by little. 😅 If you'd like to help, hit us up at masc.residents (at) gmail.com and we'll get you set up. Any little bit will help. 
+Thanks all. 👋
 
 - [Bylaws](#bylaws)
 	- [Article 1 - General Provisions](#article-1---general-provisions)
